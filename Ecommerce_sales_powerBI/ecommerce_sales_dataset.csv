@@ -1,0 +1,1501 @@
+OrderID,OrderDate,CustomerName,Product,Category,Quantity,UnitPrice,Discount,State,PaymentMode
+a03f30ef,2024-10-16,Customer_58,Laptop,Electronics,3,54003,7232.43,Delhi,Net Banking
+0ec8937a,2023-03-31,Customer_217,Laptop,Electronics,1,53383,2334.31,Haryana,Net Banking
+4236737f,2023-01-28,Customer_288,Shoes,Fashion,5,2718,599.16,West Bengal,Debit Card
+535058de,2023-01-07,Customer_82,Refrigerator,Home Appliances,3,29138,2718.22,Madhya Pradesh,UPI
+d6125026,2023-04-05,Customer_195,Smartphone,Electronics,3,21471,4431.04,Rajasthan,UPI
+d1666bdc,2024-04-15,Customer_275,Smartphone,Electronics,4,18322,8091.59,West Bengal,Debit Card
+90bd0f7b,2024-08-14,Customer_99,Smartphone,Electronics,1,20708,943.86,Rajasthan,UPI
+87f1a0c5,2023-08-27,Customer_52,Refrigerator,Home Appliances,3,29857,11387.78,Madhya Pradesh,Credit Card
+cad99aa8,2024-01-15,Customer_182,Shoes,Fashion,3,3874,2177.16,Delhi,Net Banking
+d3e50aaa,2024-10-12,Customer_88,Sofa,Furniture,2,23669,4376.49,Rajasthan,Net Banking
+b27d29e5,2023-08-13,Customer_167,Laptop,Electronics,2,56366,723.74,Madhya Pradesh,Cash on Delivery
+e97a7e5c,2023-10-02,Customer_34,Shoes,Fashion,5,4589,3294.51,Bihar,Cash on Delivery
+42ba9569,2024-02-10,Customer_235,Headphones,Electronics,3,571,84.49,Haryana,Net Banking
+fd28b15f,2023-09-27,Customer_300,Refrigerator,Home Appliances,5,29635,10727.76,Maharashtra,Net Banking
+daf3402c,2024-05-20,Customer_47,Laptop,Electronics,1,53626,6729.48,Gujarat,Net Banking
+82260075,2023-03-07,Customer_198,Refrigerator,Home Appliances,5,29917,15829.51,Haryana,UPI
+64d80645,2024-11-27,Customer_59,Sofa,Furniture,3,26148,10055.92,Delhi,Debit Card
+8462ddc7,2024-03-21,Customer_81,Microwave,Home Appliances,1,13906,2008.28,Rajasthan,Net Banking
+48998a2f,2023-07-02,Customer_260,Smartphone,Electronics,3,21447,8222.13,West Bengal,Credit Card
+059e37f9,2023-06-06,Customer_192,Headphones,Electronics,5,3905,3040.54,Haryana,UPI
+36636f15,2024-09-05,Customer_166,Microwave,Home Appliances,1,10458,1943.3,Rajasthan,Credit Card
+d2c7beb8,2023-03-01,Customer_124,Chair,Furniture,1,2350,344.0,Delhi,Net Banking
+cf6d6a4b,2023-05-09,Customer_66,Microwave,Home Appliances,5,10676,2829.74,West Bengal,Cash on Delivery
+3e70697e,2023-08-05,Customer_277,Shoes,Fashion,3,2634,1572.73,Madhya Pradesh,Cash on Delivery
+96aab8fb,2024-06-13,Customer_232,Smartphone,Electronics,2,18920,484.55,Uttar Pradesh,Net Banking
+08510f12,2024-07-21,Customer_118,Chair,Furniture,2,2029,57.62,Uttar Pradesh,Credit Card
+a8d81e7c,2023-03-11,Customer_17,Watch,Fashion,1,5105,243.0,Punjab,Credit Card
+57cdcf5c,2024-07-06,Customer_68,Chair,Furniture,5,3936,956.44,Punjab,Cash on Delivery
+47550097,2023-07-14,Customer_49,Smartphone,Electronics,4,19451,6591.22,Punjab,UPI
+553e06a4,2024-11-20,Customer_51,Laptop,Electronics,4,55982,15195.87,Delhi,Credit Card
+6ec5c05d,2023-07-16,Customer_98,Sofa,Furniture,4,23574,7956.35,Rajasthan,Cash on Delivery
+15408c3b,2023-09-13,Customer_39,Microwave,Home Appliances,5,10401,526.17,Haryana,UPI
+54547ea1,2023-04-06,Customer_122,Headphones,Electronics,4,1989,765.94,Gujarat,UPI
+542e88e9,2023-06-18,Customer_195,Laptop,Electronics,4,54086,40089.33,Punjab,Debit Card
+db7d3103,2024-03-09,Customer_285,Microwave,Home Appliances,2,10777,1279.05,Uttar Pradesh,Net Banking
+38417952,2024-07-09,Customer_32,Watch,Fashion,1,3205,374.46,Haryana,Net Banking
+ae86943f,2023-06-11,Customer_30,Sofa,Furniture,1,26487,984.39,West Bengal,UPI
+cf499b93,2024-11-22,Customer_121,Refrigerator,Home Appliances,1,31856,5672.2,Bihar,Net Banking
+80de9514,2024-08-31,Customer_21,Chair,Furniture,1,3717,488.69,West Bengal,Net Banking
+d938f9fb,2023-11-20,Customer_134,Shoes,Fashion,3,1977,315.07,Maharashtra,Debit Card
+479b2e45,2024-04-13,Customer_162,Smartphone,Electronics,1,19877,2469.36,West Bengal,UPI
+9990af1d,2023-03-17,Customer_276,Shoes,Fashion,5,2086,276.3,Madhya Pradesh,UPI
+76e4ffcc,2023-09-08,Customer_190,T-Shirt,Fashion,2,594,198.1,Rajasthan,Net Banking
+4877631a,2024-10-31,Customer_271,Laptop,Electronics,5,54226,50525.4,Delhi,Credit Card
+ee0ebab3,2023-09-28,Customer_60,Smartphone,Electronics,5,18636,5075.48,West Bengal,Credit Card
+7df89204,2023-12-18,Customer_105,T-Shirt,Fashion,5,801,201.15,Uttar Pradesh,UPI
+61782c59,2024-10-11,Customer_217,T-Shirt,Fashion,1,-1186,-79.12,Maharashtra,Debit Card
+319c95cd,2023-06-15,Customer_227,Sofa,Furniture,4,25297,195.69,Delhi,Credit Card
+eb346497,2024-07-12,Customer_19,Watch,Fashion,5,5263,779.42,Maharashtra,UPI
+aab6b73c,2023-11-12,Customer_187,Laptop,Electronics,3,53860,22041.67,Delhi,Debit Card
+abaf9137,2024-07-27,Customer_209,Chair,Furniture,2,5791,2153.98,Maharashtra,Credit Card
+6c9b3e73,2024-02-27,Customer_13,Headphones,Electronics,3,3204,1789.4,Bihar,Debit Card
+865dcc1d,2023-06-13,Customer_56,Refrigerator,Home Appliances,1,31516,2966.85,Bihar,Cash on Delivery
+8aa5d502,2023-12-25,Customer_157,Shoes,Fashion,2,1096,289.36,Gujarat,Debit Card
+c663e198,2023-10-13,Customer_36,T-Shirt,Fashion,3,1427,436.15,Haryana,Debit Card
+a7e5a9b8,2023-01-29,Customer_60,T-Shirt,Fashion,2,1178,453.55,Rajasthan,UPI
+b2e20f47,2023-04-22,Customer_223,Watch,Fashion,3,4787,1741.15,Haryana,UPI
+1a3c1018,2024-01-30,Customer_296,Shoes,Fashion,3,1181,502.25,Uttar Pradesh,Net Banking
+8a1e1f76,2024-07-05,Customer_101,Watch,Fashion,4,3286,2494.4,Madhya Pradesh,Net Banking
+c9d168fa,2023-11-18,Customer_64,T-Shirt,Fashion,5,66,44.01,Madhya Pradesh,Cash on Delivery
+10dd86aa,2024-12-14,Customer_152,Sofa,Furniture,2,23785,4000.13,Gujarat,Credit Card
+bd4c6496,2024-09-22,Customer_292,T-Shirt,Fashion,4,1044,696.33,Rajasthan,Debit Card
+749d5fb6,2023-08-04,Customer_221,Chair,Furniture,5,4681,1508.45,Punjab,Cash on Delivery
+ab6fe469,2024-11-22,Customer_110,Sofa,Furniture,4,26251,18925.52,Maharashtra,UPI
+d37a1214,2023-10-18,Customer_264,Chair,Furniture,3,2382,1169.69,Bihar,Debit Card
+f7fa3e11,2023-08-19,Customer_102,Headphones,Electronics,1,189,9.26,Punjab,Net Banking
+ff9cf211,2023-03-16,Customer_234,Refrigerator,Home Appliances,5,28796,20685.49,Gujarat,Cash on Delivery
+2d8febd9,2024-02-14,Customer_125,Headphones,Electronics,1,3656,549.11,Delhi,Cash on Delivery
+a16a575f,2023-08-13,Customer_91,Sofa,Furniture,4,23205,10347.68,Delhi,Cash on Delivery
+f7a159d7,2023-05-17,Customer_238,Sofa,Furniture,5,25438,8071.43,Punjab,Net Banking
+60a007ef,2024-05-31,Customer_219,Sofa,Furniture,4,26674,3396.3,Punjab,Cash on Delivery
+ad78b93d,2023-09-23,Customer_127,T-Shirt,Fashion,5,784,491.37,Rajasthan,Cash on Delivery
+0dc2499c,2023-03-21,Customer_147,Shoes,Fashion,3,2375,455.59,Haryana,UPI
+8639ddc8,2023-05-22,Customer_78,Shoes,Fashion,4,3842,469.66,Bihar,UPI
+4bdef7ce,2024-02-29,Customer_209,Watch,Fashion,5,4908,2040.62,Bihar,Cash on Delivery
+5bc0eca5,2024-02-03,Customer_300,Laptop,Electronics,5,54558,26023.06,Madhya Pradesh,Debit Card
+d0a5219f,2024-02-04,Customer_215,Sofa,Furniture,5,26276,15851.07,Bihar,Cash on Delivery
+3c85d84c,2023-08-13,Customer_140,Refrigerator,Home Appliances,4,28118,8747.11,Gujarat,Credit Card
+d23a7759,2024-04-23,Customer_66,Chair,Furniture,5,2110,1913.62,West Bengal,Net Banking
+ea3efa2a,2024-11-09,Customer_14,Smartphone,Electronics,4,18555,12867.54,Maharashtra,UPI
+776bc1a0,2023-09-24,Customer_195,Watch,Fashion,2,4862,635.65,Gujarat,Debit Card
+e81b5f43,2024-03-07,Customer_130,Smartphone,Electronics,4,18079,10833.29,Uttar Pradesh,Debit Card
+375e0483,2023-08-18,Customer_36,Laptop,Electronics,1,56889,2813.54,Uttar Pradesh,Net Banking
+6db799a7,2023-06-06,Customer_123,Headphones,Electronics,4,2742,250.92,Bihar,Cash on Delivery
+d1ddecda,2024-12-17,Customer_132,Watch,Fashion,2,5481,1331.33,Delhi,Credit Card
+c8b8b929,2023-11-15,Customer_56,Chair,Furniture,1,5804,362.12,Gujarat,Cash on Delivery
+5dc3cd97,2023-07-23,Customer_39,Chair,Furniture,2,2417,674.05,Rajasthan,Net Banking
+9dd0f2cc,2023-05-04,Customer_290,Laptop,Electronics,3,55182,14183.25,Madhya Pradesh,UPI
+ee091b79,2024-06-02,Customer_175,Laptop,Electronics,4,56368,22105.35,Gujarat,Debit Card
+442e3840,2024-10-12,Customer_236,Headphones,Electronics,4,721,423.25,Rajasthan,Net Banking
+2774a962,2024-07-05,Customer_248,Microwave,Home Appliances,4,13382,7826.07,Rajasthan,Debit Card
+a760298b,2023-09-09,Customer_45,T-Shirt,Fashion,4,-202,-121.28,West Bengal,Net Banking
+ebff50fe,2024-11-15,Customer_195,Watch,Fashion,1,5024,855.04,Maharashtra,Cash on Delivery
+0db953a3,2023-08-06,Customer_182,T-Shirt,Fashion,3,-55,-29.05,Rajasthan,Net Banking
+b57c6408,2023-01-11,Customer_265,Shoes,Fashion,1,1988,286.3,Punjab,Net Banking
+81e67822,2023-09-04,Customer_244,Microwave,Home Appliances,4,13247,182.74,Rajasthan,Credit Card
+04b81ea9,2024-02-19,Customer_125,T-Shirt,Fashion,5,311,147.18,Haryana,Debit Card
+9834299b,2024-03-11,Customer_282,Watch,Fashion,3,5878,1600.27,Rajasthan,Debit Card
+2a23d200,2023-08-25,Customer_62,Shoes,Fashion,3,1489,663.69,Maharashtra,Credit Card
+bc3fae14,2023-08-10,Customer_248,T-Shirt,Fashion,5,2800,2128.58,West Bengal,Debit Card
+afd96a48,2023-04-13,Customer_100,T-Shirt,Fashion,2,278,19.95,Uttar Pradesh,Net Banking
+8a714c15,2023-05-10,Customer_141,Laptop,Electronics,1,55266,3229.04,Maharashtra,Cash on Delivery
+782ce948,2023-04-16,Customer_7,Chair,Furniture,3,3922,1126.51,Madhya Pradesh,Credit Card
+3a326a7c,2023-02-22,Customer_130,Microwave,Home Appliances,1,13367,174.69,Punjab,UPI
+8b7150fd,2024-08-13,Customer_28,Headphones,Electronics,2,3322,747.9,Rajasthan,UPI
+dcb5388a,2023-09-12,Customer_61,Sofa,Furniture,4,25483,12152.88,West Bengal,Credit Card
+50a59d27,2024-06-19,Customer_195,Microwave,Home Appliances,4,11217,7718.79,Gujarat,Debit Card
+6e3f2531,2024-08-05,Customer_31,Chair,Furniture,1,5881,897.13,Bihar,Debit Card
+d72007da,2024-11-07,Customer_42,Headphones,Electronics,2,711,156.99,Maharashtra,UPI
+fd41a02a,2024-02-23,Customer_231,Chair,Furniture,4,3192,83.35,Rajasthan,Debit Card
+3da5f384,2024-12-20,Customer_233,Smartphone,Electronics,2,21784,2305.22,West Bengal,Credit Card
+c0fd7619,2024-03-11,Customer_59,Sofa,Furniture,2,25652,1528.75,Rajasthan,Credit Card
+fb9a7410,2023-03-15,Customer_31,Headphones,Electronics,3,2437,1095.13,West Bengal,Debit Card
+698c5c50,2024-03-25,Customer_64,Microwave,Home Appliances,3,12866,3107.2,Rajasthan,Net Banking
+464d01f1,2024-07-06,Customer_253,Microwave,Home Appliances,1,12449,99.25,Gujarat,Debit Card
+198a8fe8,2024-09-10,Customer_129,Laptop,Electronics,1,53937,10376.52,West Bengal,Net Banking
+b3d8842f,2023-01-22,Customer_138,Chair,Furniture,1,5125,775.18,Punjab,Net Banking
+62659e3f,2024-10-29,Customer_227,T-Shirt,Fashion,2,1197,208.7,Punjab,UPI
+19d48124,2024-04-26,Customer_179,Refrigerator,Home Appliances,3,29315,11786.98,Maharashtra,Debit Card
+06c335fb,2024-02-26,Customer_254,T-Shirt,Fashion,4,2132,1297.11,Uttar Pradesh,Cash on Delivery
+c761e3e6,2023-04-01,Customer_162,T-Shirt,Fashion,3,-726,-422.61,Gujarat,Net Banking
+84e8c432,2023-01-02,Customer_278,Microwave,Home Appliances,4,10222,1533.97,Madhya Pradesh,Net Banking
+b752f65c,2024-05-25,Customer_227,Laptop,Electronics,2,54093,11883.58,Rajasthan,Cash on Delivery
+4e1de04f,2024-12-16,Customer_249,Smartphone,Electronics,1,21986,2770.33,Bihar,Credit Card
+d9c26bfd,2023-11-15,Customer_283,Laptop,Electronics,5,54671,5095.84,Delhi,Cash on Delivery
+5047c2d4,2023-05-01,Customer_79,Microwave,Home Appliances,3,12084,5114.52,Gujarat,Cash on Delivery
+cb4cea90,2024-04-28,Customer_125,Microwave,Home Appliances,5,10592,4062.94,West Bengal,Net Banking
+d1ed2cb8,2023-05-20,Customer_36,T-Shirt,Fashion,4,192,143.5,Haryana,Debit Card
+d53d66ad,2023-01-03,Customer_145,T-Shirt,Fashion,5,1175,1173.71,Punjab,Credit Card
+f0fded2a,2024-04-02,Customer_276,Microwave,Home Appliances,3,11361,3762.2,Haryana,Cash on Delivery
+94afa018,2024-04-11,Customer_165,Shoes,Fashion,2,3342,511.96,Gujarat,UPI
+06b27b77,2023-11-22,Customer_243,Refrigerator,Home Appliances,4,30718,19472.6,Maharashtra,Cash on Delivery
+cdde55f9,2023-02-07,Customer_65,Sofa,Furniture,5,24359,21185.03,Punjab,UPI
+b4a2b0ce,2024-06-22,Customer_234,Laptop,Electronics,2,54679,19048.7,Maharashtra,UPI
+3dd43b53,2024-04-25,Customer_136,Watch,Fashion,5,5837,2320.11,Delhi,Debit Card
+da81c7c5,2024-11-21,Customer_274,Refrigerator,Home Appliances,3,30567,13181.42,Punjab,Net Banking
+e4bb5df3,2023-02-06,Customer_36,Shoes,Fashion,3,1931,865.2,Gujarat,UPI
+b5b2956f,2024-10-10,Customer_52,Microwave,Home Appliances,2,12842,1538.3,Uttar Pradesh,UPI
+e55b1927,2023-11-29,Customer_29,T-Shirt,Fashion,3,335,86.57,Bihar,Net Banking
+09213341,2024-02-26,Customer_290,Headphones,Electronics,2,717,22.65,Gujarat,Net Banking
+249c0a91,2024-11-30,Customer_124,Microwave,Home Appliances,5,10586,2457.95,Rajasthan,Cash on Delivery
+94d5b25b,2023-09-19,Customer_5,Microwave,Home Appliances,3,12775,4189.67,Delhi,Cash on Delivery
+383badb6,2023-12-20,Customer_154,Refrigerator,Home Appliances,3,29871,15150.04,Bihar,Cash on Delivery
+9b8019df,2024-05-09,Customer_55,Shoes,Fashion,4,3342,959.71,Rajasthan,Debit Card
+e95ad24f,2023-01-23,Customer_203,T-Shirt,Fashion,1,1118,193.43,Uttar Pradesh,Net Banking
+e071c5db,2024-05-23,Customer_147,Shoes,Fashion,5,4284,1509.34,Bihar,Net Banking
+41d04e7c,2023-09-14,Customer_71,Smartphone,Electronics,1,19265,3038.52,Uttar Pradesh,Net Banking
+8457f3e4,2024-01-09,Customer_68,Smartphone,Electronics,3,19338,8672.87,Maharashtra,Credit Card
+0e836c20,2023-05-16,Customer_277,Watch,Fashion,5,5055,4617.68,Maharashtra,Debit Card
+421f57df,2024-05-08,Customer_152,Watch,Fashion,1,4918,947.1,Maharashtra,Credit Card
+73b79031,2024-11-23,Customer_204,Sofa,Furniture,3,23369,11086.47,Uttar Pradesh,Debit Card
+2ee24331,2024-07-03,Customer_64,Microwave,Home Appliances,3,12755,5732.19,Rajasthan,Net Banking
+ae99628c,2024-01-26,Customer_191,Smartphone,Electronics,2,19931,199.51,Haryana,Debit Card
+c9298c8e,2024-09-16,Customer_114,Smartphone,Electronics,4,21724,12184.16,Gujarat,UPI
+7e323ff7,2023-05-24,Customer_24,Laptop,Electronics,3,55017,3833.16,Bihar,Net Banking
+4f939894,2023-05-19,Customer_199,Microwave,Home Appliances,3,12746,7260.48,Haryana,Cash on Delivery
+87229c4e,2024-08-24,Customer_80,Refrigerator,Home Appliances,1,31414,3074.47,Gujarat,Debit Card
+1f1f2984,2023-02-03,Customer_190,Shoes,Fashion,4,2821,2145.21,Madhya Pradesh,UPI
+8009d0c7,2024-12-03,Customer_189,Sofa,Furniture,3,23248,5553.57,Bihar,UPI
+555a7b30,2024-04-10,Customer_47,Shoes,Fashion,5,4977,106.3,Madhya Pradesh,Credit Card
+bb259e15,2023-05-09,Customer_290,Shoes,Fashion,1,4398,673.03,Bihar,Net Banking
+7c71796e,2023-08-10,Customer_120,Watch,Fashion,2,6230,2244.12,Uttar Pradesh,Debit Card
+cb2c6ffa,2023-05-29,Customer_67,Sofa,Furniture,3,26270,2750.42,Uttar Pradesh,Credit Card
+3735a05e,2023-01-16,Customer_184,Shoes,Fashion,5,2326,36.71,Rajasthan,UPI
+497e3b0e,2023-05-10,Customer_216,Sofa,Furniture,1,26054,331.19,Punjab,Debit Card
+7306e2c6,2024-06-09,Customer_56,Microwave,Home Appliances,5,10907,10311.65,Uttar Pradesh,Net Banking
+58fbca63,2023-11-05,Customer_235,Laptop,Electronics,1,54961,9313.68,Gujarat,UPI
+4b91ee80,2024-05-17,Customer_228,Smartphone,Electronics,1,19319,2350.34,Delhi,Credit Card
+7f62eb8d,2023-10-09,Customer_300,Sofa,Furniture,3,24560,14656.83,Haryana,Debit Card
+83be867a,2024-04-09,Customer_259,Chair,Furniture,4,2406,1526.55,Delhi,Net Banking
+a7d92ce9,2023-08-09,Customer_221,Microwave,Home Appliances,2,11694,1585.39,Punjab,Cash on Delivery
+b842e0d1,2024-03-01,Customer_49,Watch,Fashion,4,4280,2277.33,Madhya Pradesh,Credit Card
+762be8d8,2024-12-04,Customer_243,Smartphone,Electronics,1,21406,365.46,Gujarat,UPI
+0bd45f7c,2024-01-17,Customer_67,Sofa,Furniture,1,25402,4860.04,Haryana,Debit Card
+ef81c801,2024-11-17,Customer_63,Refrigerator,Home Appliances,3,31578,12606.07,Gujarat,UPI
+bdc061f0,2023-10-22,Customer_160,Watch,Fashion,1,5367,544.66,Maharashtra,Cash on Delivery
+96d491aa,2023-08-18,Customer_56,Watch,Fashion,5,4505,517.56,Rajasthan,Net Banking
+cfe1ee02,2023-08-20,Customer_220,Sofa,Furniture,5,25513,17220.68,Haryana,UPI
+5dd075c5,2024-09-15,Customer_137,Laptop,Electronics,2,54119,15211.74,Rajasthan,Debit Card
+ec66c65c,2023-12-26,Customer_4,Headphones,Electronics,2,2319,609.75,Delhi,Credit Card
+c2144515,2024-10-10,Customer_16,Smartphone,Electronics,5,18881,7102.93,Punjab,Debit Card
+a77156cf,2023-06-11,Customer_190,T-Shirt,Fashion,3,1981,1118.96,West Bengal,UPI
+557d6a9d,2023-02-23,Customer_80,Headphones,Electronics,5,203,136.82,Rajasthan,Cash on Delivery
+61bf8335,2024-11-08,Customer_218,Microwave,Home Appliances,5,11810,4891.51,Bihar,Net Banking
+1920156e,2023-04-27,Customer_177,Refrigerator,Home Appliances,1,29160,3955.37,West Bengal,Cash on Delivery
+ae1a4ed0,2024-06-23,Customer_158,Laptop,Electronics,2,54618,21507.38,Uttar Pradesh,UPI
+8122cc34,2023-07-29,Customer_155,Shoes,Fashion,2,4130,422.12,Madhya Pradesh,UPI
+04c96860,2023-01-08,Customer_255,Refrigerator,Home Appliances,2,28529,4338.78,Bihar,Net Banking
+e40c49fe,2024-07-26,Customer_182,Smartphone,Electronics,4,21529,12780.33,Gujarat,UPI
+bf6fafb9,2024-04-15,Customer_40,Watch,Fashion,5,4758,2728.24,Gujarat,Debit Card
+f4fb816b,2023-04-28,Customer_208,Laptop,Electronics,3,53703,25820.04,West Bengal,Cash on Delivery
+9ee0fba6,2024-12-07,Customer_186,Smartphone,Electronics,4,21459,1817.37,Gujarat,Net Banking
+78ffc585,2024-02-15,Customer_269,Smartphone,Electronics,4,21565,5352.86,Madhya Pradesh,Credit Card
+2d5216af,2023-12-08,Customer_87,Smartphone,Electronics,5,20593,2348.15,Haryana,Credit Card
+2b2803fa,2023-12-24,Customer_180,Headphones,Electronics,2,421,24.66,Bihar,Credit Card
+e4cd1afd,2024-09-08,Customer_79,Smartphone,Electronics,2,21896,6768.91,Punjab,Cash on Delivery
+bb936866,2024-07-31,Customer_297,Microwave,Home Appliances,5,12633,8025.72,West Bengal,Debit Card
+39f01e03,2024-10-04,Customer_162,Headphones,Electronics,4,279,104.66,Rajasthan,Debit Card
+61840c51,2024-08-28,Customer_29,Watch,Fashion,5,3303,1025.28,Punjab,UPI
+f2eeeec7,2023-02-28,Customer_189,T-Shirt,Fashion,1,1440,248.9,Delhi,Net Banking
+ce9dea1d,2024-08-31,Customer_260,Refrigerator,Home Appliances,4,30377,13470.77,Uttar Pradesh,Cash on Delivery
+6ba18148,2024-08-08,Customer_97,Watch,Fashion,5,4948,2480.77,Uttar Pradesh,Cash on Delivery
+c3ae1a03,2023-04-16,Customer_176,Smartphone,Electronics,5,20646,3562.65,Bihar,Cash on Delivery
+a0ef5a31,2024-03-25,Customer_269,Sofa,Furniture,5,23650,8606.19,Rajasthan,Cash on Delivery
+4753676a,2024-02-23,Customer_174,Chair,Furniture,1,5232,660.16,Madhya Pradesh,UPI
+4a96ca9e,2023-12-04,Customer_49,Sofa,Furniture,4,24163,4871.18,West Bengal,Credit Card
+cfd36810,2023-12-08,Customer_42,Chair,Furniture,2,5754,805.15,Gujarat,Credit Card
+5f239936,2024-09-01,Customer_44,T-Shirt,Fashion,5,342,220.07,Madhya Pradesh,Credit Card
+0502246e,2024-11-17,Customer_270,Smartphone,Electronics,4,20082,5812.99,Madhya Pradesh,Debit Card
+4ab5cef5,2023-07-04,Customer_110,Watch,Fashion,4,3786,686.15,Maharashtra,Credit Card
+c1e30005,2023-03-21,Customer_152,Smartphone,Electronics,5,21157,11419.93,Haryana,UPI
+07a648fc,2024-11-08,Customer_173,Chair,Furniture,2,4446,669.96,Maharashtra,Credit Card
+efa261f8,2024-12-10,Customer_85,Microwave,Home Appliances,1,11682,851.15,Bihar,Cash on Delivery
+b14dd0a3,2024-09-17,Customer_146,Microwave,Home Appliances,2,12187,1165.9,Punjab,Credit Card
+7467a081,2024-01-12,Customer_293,Microwave,Home Appliances,4,13151,2964.46,Gujarat,Net Banking
+a3d15bbd,2024-06-24,Customer_215,Headphones,Electronics,2,3281,793.56,Rajasthan,UPI
+ef5a43e5,2024-10-18,Customer_247,Watch,Fashion,5,6826,700.28,Haryana,UPI
+e2abfad3,2023-10-19,Customer_43,Headphones,Electronics,3,1840,999.46,Maharashtra,Cash on Delivery
+f839e554,2023-04-04,Customer_114,Microwave,Home Appliances,3,13811,221.01,Uttar Pradesh,Cash on Delivery
+d5e332be,2024-05-29,Customer_192,Shoes,Fashion,4,1334,400.11,Uttar Pradesh,Debit Card
+3b68e11d,2023-04-12,Customer_172,Headphones,Electronics,2,156,17.9,Punjab,Credit Card
+e3e4681b,2024-12-23,Customer_241,Microwave,Home Appliances,5,10021,9077.6,Uttar Pradesh,Debit Card
+7a08bee2,2023-08-09,Customer_77,Sofa,Furniture,5,25161,10649.51,Rajasthan,Credit Card
+feab4077,2023-11-05,Customer_63,Laptop,Electronics,2,54719,13985.12,West Bengal,Cash on Delivery
+6f62847f,2023-03-06,Customer_57,Microwave,Home Appliances,5,12195,200.43,Haryana,Net Banking
+4c176250,2023-09-05,Customer_74,T-Shirt,Fashion,4,-1194,-587.27,Bihar,Net Banking
+73e425ec,2024-03-02,Customer_96,Smartphone,Electronics,5,21992,7930.4,Haryana,Net Banking
+7fe1b7ae,2024-06-03,Customer_260,Sofa,Furniture,1,24599,4296.62,Uttar Pradesh,Cash on Delivery
+8e74f7ed,2024-01-18,Customer_130,Laptop,Electronics,3,56229,2279.28,Bihar,UPI
+dc3d116b,2024-08-18,Customer_171,Headphones,Electronics,1,1443,157.58,Maharashtra,Cash on Delivery
+130bedc7,2024-12-13,Customer_246,Headphones,Electronics,2,258,73.9,Punjab,UPI
+a7905edf,2023-10-28,Customer_104,Laptop,Electronics,2,56628,949.22,Rajasthan,Net Banking
+91b8bda3,2024-02-12,Customer_279,Microwave,Home Appliances,3,10149,4587.09,Bihar,Debit Card
+03fcfe18,2024-01-01,Customer_25,Watch,Fashion,3,3509,1682.94,Gujarat,Cash on Delivery
+fccfdd2c,2024-03-26,Customer_198,Watch,Fashion,2,5032,1393.0,Madhya Pradesh,Net Banking
+e7a2b0a1,2023-10-01,Customer_43,Refrigerator,Home Appliances,1,29763,3586.16,Maharashtra,Net Banking
+0be8ea4c,2023-10-28,Customer_165,Smartphone,Electronics,1,19343,2556.83,Rajasthan,Cash on Delivery
+f25485e1,2024-09-09,Customer_219,Headphones,Electronics,4,1439,514.74,Madhya Pradesh,Net Banking
+fb8d6b7c,2024-03-21,Customer_141,Laptop,Electronics,1,55749,7108.14,Madhya Pradesh,Net Banking
+6871582a,2024-11-26,Customer_82,Laptop,Electronics,2,56476,13725.31,Punjab,UPI
+e86d7be9,2023-05-10,Customer_35,Shoes,Fashion,3,2483,570.38,West Bengal,UPI
+3dc1a53d,2024-09-11,Customer_79,Microwave,Home Appliances,3,11523,3069.31,Delhi,Net Banking
+6652c9f8,2023-05-21,Customer_272,Watch,Fashion,4,4287,2227.73,Bihar,UPI
+2b331d67,2023-01-27,Customer_96,Microwave,Home Appliances,5,11585,10583.39,Delhi,Debit Card
+3f122d80,2023-09-24,Customer_229,Shoes,Fashion,5,2169,1505.24,Punjab,Credit Card
+7b0fe569,2023-05-06,Customer_70,Smartphone,Electronics,4,18707,13449.27,Punjab,UPI
+faeadd18,2024-11-29,Customer_164,Watch,Fashion,1,5252,569.5,Rajasthan,Credit Card
+aa88ea2a,2024-12-29,Customer_90,Watch,Fashion,5,3918,475.5,Bihar,Credit Card
+7ca989fe,2023-08-31,Customer_253,Laptop,Electronics,3,55269,18977.52,Punjab,Net Banking
+4e5af3af,2023-05-13,Customer_45,Smartphone,Electronics,3,19630,11773.23,Punjab,Net Banking
+680cbcc8,2024-02-25,Customer_210,Chair,Furniture,1,2513,488.72,Delhi,Cash on Delivery
+c859999d,2024-04-22,Customer_265,Watch,Fashion,2,6596,2187.38,Haryana,Net Banking
+4ca6b554,2023-07-06,Customer_67,Refrigerator,Home Appliances,5,31730,27548.35,Delhi,Net Banking
+be834d3f,2023-06-06,Customer_156,Headphones,Electronics,2,1321,493.92,Bihar,Debit Card
+8e6ed07e,2024-06-15,Customer_146,Smartphone,Electronics,3,18804,7164.97,Haryana,Debit Card
+c4493828,2023-05-09,Customer_156,Chair,Furniture,5,2382,1197.13,Maharashtra,Net Banking
+2d251064,2024-08-17,Customer_79,Headphones,Electronics,5,2951,2661.8,Madhya Pradesh,Net Banking
+8d98466c,2023-02-12,Customer_15,Smartphone,Electronics,1,21885,2807.64,West Bengal,Debit Card
+f5d4ed59,2024-10-28,Customer_108,Chair,Furniture,4,4531,2316.22,Punjab,Net Banking
+9a816ac4,2023-10-24,Customer_155,Microwave,Home Appliances,2,13296,4293.81,Gujarat,Debit Card
+87d8f3c2,2024-04-09,Customer_38,Laptop,Electronics,2,54800,9110.43,Punjab,Credit Card
+fe84c5f6,2023-12-15,Customer_74,Watch,Fashion,3,6007,3561.03,Madhya Pradesh,Cash on Delivery
+c996260e,2023-05-14,Customer_190,Sofa,Furniture,5,23434,7478.16,Punjab,UPI
+d79f9ce6,2023-10-01,Customer_231,Shoes,Fashion,2,1396,28.26,Gujarat,Net Banking
+6e58287a,2024-03-04,Customer_128,Headphones,Electronics,3,3824,1325.45,Madhya Pradesh,Credit Card
+7a1c640e,2023-06-13,Customer_256,Sofa,Furniture,4,25042,17611.05,Punjab,UPI
+3575c77b,2023-04-03,Customer_202,Sofa,Furniture,4,26959,5191.84,West Bengal,Debit Card
+ff4ab325,2023-02-19,Customer_26,T-Shirt,Fashion,4,1247,880.22,Punjab,Debit Card
+d1783803,2024-07-03,Customer_5,Smartphone,Electronics,4,18548,13094.23,Madhya Pradesh,Cash on Delivery
+2fd8b980,2024-01-10,Customer_24,Refrigerator,Home Appliances,1,30335,3408.54,Madhya Pradesh,Net Banking
+20b6f9f0,2023-10-23,Customer_38,Refrigerator,Home Appliances,5,29844,22812.88,Rajasthan,Net Banking
+9ece82b7,2024-11-27,Customer_61,Headphones,Electronics,1,1613,120.39,Madhya Pradesh,Net Banking
+46d80737,2024-01-10,Customer_74,Shoes,Fashion,5,3085,1238.28,Uttar Pradesh,UPI
+de49693f,2023-02-09,Customer_71,Watch,Fashion,4,5127,1874.38,West Bengal,Net Banking
+bb25a187,2023-05-24,Customer_168,Chair,Furniture,3,2665,628.33,West Bengal,Debit Card
+12717b32,2024-08-30,Customer_173,Sofa,Furniture,5,25180,12334.34,West Bengal,Debit Card
+90f6ade3,2024-05-01,Customer_9,Watch,Fashion,3,5759,378.73,Gujarat,Net Banking
+20734da9,2023-11-12,Customer_14,Chair,Furniture,4,3087,2388.28,West Bengal,Net Banking
+a6d13da4,2023-08-22,Customer_27,Chair,Furniture,4,2698,1131.5,West Bengal,Cash on Delivery
+dd2fc8da,2023-06-01,Customer_125,Laptop,Electronics,5,56883,39847.73,Bihar,UPI
+19065c2e,2024-03-27,Customer_161,Refrigerator,Home Appliances,2,29691,8200.66,Gujarat,Net Banking
+7ea800ad,2024-09-18,Customer_242,Laptop,Electronics,2,55124,4571.8,Madhya Pradesh,Cash on Delivery
+edf8df7a,2024-06-22,Customer_193,Watch,Fashion,2,4882,1781.2,Madhya Pradesh,Net Banking
+e07e49ae,2023-12-29,Customer_136,Chair,Furniture,4,2787,2134.48,Rajasthan,Net Banking
+66b7cd1e,2023-11-02,Customer_116,T-Shirt,Fashion,3,1687,209.81,Punjab,Debit Card
+99b038bd,2024-05-06,Customer_179,Sofa,Furniture,3,24178,1768.0,Haryana,Cash on Delivery
+07641d5c,2024-02-09,Customer_177,Headphones,Electronics,3,172,29.68,Delhi,Debit Card
+71c4c7f4,2024-03-28,Customer_132,Microwave,Home Appliances,2,10827,3585.69,Rajasthan,Net Banking
+824909e0,2024-12-13,Customer_140,Headphones,Electronics,1,2521,373.56,Bihar,Credit Card
+f91004a7,2023-02-21,Customer_272,Shoes,Fashion,2,1215,48.7,Madhya Pradesh,Cash on Delivery
+381ffbd6,2023-04-13,Customer_71,Laptop,Electronics,5,56805,8971.84,Punjab,Cash on Delivery
+e0648902,2024-10-28,Customer_103,T-Shirt,Fashion,3,-31,-12.01,Delhi,Net Banking
+290b61c3,2023-08-26,Customer_274,Laptop,Electronics,2,54711,19307.4,Maharashtra,UPI
+50142864,2024-02-11,Customer_254,Headphones,Electronics,3,3591,80.72,Rajasthan,Net Banking
+62f09aeb,2024-09-09,Customer_55,Watch,Fashion,3,4861,2884.81,Haryana,Net Banking
+764362cb,2024-05-20,Customer_69,Sofa,Furniture,4,24117,3720.03,Delhi,Debit Card
+554aed88,2023-06-16,Customer_235,T-Shirt,Fashion,2,-1143,-336.78,Rajasthan,Net Banking
+e69a11e2,2024-11-21,Customer_99,Headphones,Electronics,5,3506,2239.37,Gujarat,Cash on Delivery
+5b74bfa4,2024-06-11,Customer_168,Smartphone,Electronics,4,20741,1582.71,Maharashtra,Cash on Delivery
+ae9e950e,2023-11-28,Customer_128,Laptop,Electronics,3,54571,7711.58,Rajasthan,Debit Card
+1dc3072f,2023-11-06,Customer_299,Chair,Furniture,1,3071,401.49,Bihar,UPI
+13c71493,2024-11-14,Customer_61,Microwave,Home Appliances,3,10654,2591.59,Haryana,Debit Card
+6bf0a675,2024-12-07,Customer_61,T-Shirt,Fashion,3,1317,174.52,Maharashtra,Cash on Delivery
+51be17be,2023-06-06,Customer_233,Chair,Furniture,3,3703,1559.57,Punjab,Net Banking
+a8e44a53,2024-11-11,Customer_112,Shoes,Fashion,5,4576,3603.01,Haryana,Cash on Delivery
+6e3f71ab,2024-06-24,Customer_186,Smartphone,Electronics,5,18459,1139.99,Haryana,Net Banking
+42a55ed7,2023-07-27,Customer_294,Sofa,Furniture,2,23673,3107.01,Haryana,Cash on Delivery
+80e70635,2023-04-30,Customer_106,Chair,Furniture,4,2372,1705.73,Punjab,UPI
+b3749b0f,2024-04-09,Customer_68,Sofa,Furniture,4,24871,11220.03,Haryana,Cash on Delivery
+ef72522a,2024-11-19,Customer_158,Laptop,Electronics,4,54042,35298.21,Bihar,Net Banking
+a936ee3b,2023-03-16,Customer_24,Refrigerator,Home Appliances,3,30868,1180.88,Uttar Pradesh,UPI
+a26250c0,2024-04-28,Customer_17,T-Shirt,Fashion,4,-463,-284.83,Gujarat,Debit Card
+b8bfe5fb,2024-01-27,Customer_230,Refrigerator,Home Appliances,4,28328,15472.31,Haryana,Credit Card
+48e77c1d,2024-10-31,Customer_179,Smartphone,Electronics,2,20200,3175.91,Maharashtra,Credit Card
+db466463,2023-01-04,Customer_12,T-Shirt,Fashion,4,1558,896.28,Gujarat,Net Banking
+75fcd86e,2024-01-24,Customer_118,Shoes,Fashion,4,2417,299.94,Bihar,UPI
+3a3f6516,2023-02-02,Customer_215,Chair,Furniture,1,2985,123.03,Delhi,Net Banking
+339cda7d,2023-02-04,Customer_229,Chair,Furniture,1,3002,444.62,Gujarat,Cash on Delivery
+cbc05c9a,2023-08-28,Customer_277,Shoes,Fashion,1,1573,158.53,Rajasthan,Credit Card
+4c153c1f,2024-08-12,Customer_164,Chair,Furniture,5,5164,3472.95,Madhya Pradesh,Credit Card
+99dcfb05,2023-11-06,Customer_74,Sofa,Furniture,2,24693,2968.11,Uttar Pradesh,Net Banking
+7e25937a,2024-08-28,Customer_90,Refrigerator,Home Appliances,5,30030,1407.93,Madhya Pradesh,Cash on Delivery
+d1e6ec21,2024-06-21,Customer_164,Refrigerator,Home Appliances,4,28611,6864.09,Maharashtra,Net Banking
+1c072481,2024-04-29,Customer_124,Shoes,Fashion,3,4512,1915.55,Punjab,UPI
+e8cad8bc,2024-07-29,Customer_212,Refrigerator,Home Appliances,5,30170,4045.58,Bihar,Debit Card
+1c418e41,2023-07-28,Customer_170,Smartphone,Electronics,4,21469,6373.33,Haryana,Credit Card
+e16c212c,2023-02-22,Customer_138,Refrigerator,Home Appliances,5,30469,1204.97,Delhi,Credit Card
+44f97643,2024-08-24,Customer_287,Shoes,Fashion,4,1855,1290.3,Madhya Pradesh,Debit Card
+787db564,2023-01-16,Customer_109,Shoes,Fashion,1,4059,811.45,Punjab,Credit Card
+34fd8161,2024-12-13,Customer_105,Refrigerator,Home Appliances,2,30261,3892.96,Rajasthan,Cash on Delivery
+b1c7205c,2024-04-22,Customer_274,Watch,Fashion,3,4071,878.47,Punjab,Cash on Delivery
+49a71d03,2023-04-11,Customer_241,Watch,Fashion,2,4518,565.51,Uttar Pradesh,Net Banking
+e2abf0fd,2023-08-15,Customer_75,Laptop,Electronics,3,55266,30996.21,West Bengal,Cash on Delivery
+285ccf06,2023-10-30,Customer_79,Shoes,Fashion,3,1942,442.59,Bihar,Cash on Delivery
+307e4f2a,2024-07-17,Customer_173,T-Shirt,Fashion,4,2758,1596.46,Punjab,Cash on Delivery
+376c52fc,2023-06-22,Customer_181,Headphones,Electronics,2,2950,644.92,Maharashtra,Net Banking
+6b94a9f8,2024-10-19,Customer_31,Sofa,Furniture,1,26436,4476.66,Uttar Pradesh,UPI
+6fa9ffe5,2024-02-27,Customer_71,Shoes,Fashion,1,3896,117.68,Bihar,Net Banking
+7bdadd36,2024-04-11,Customer_192,Laptop,Electronics,5,55612,37079.56,West Bengal,Cash on Delivery
+c19eef11,2024-11-06,Customer_250,Laptop,Electronics,1,55179,6087.83,Uttar Pradesh,UPI
+fa1792c5,2024-06-26,Customer_141,Sofa,Furniture,3,23070,6951.67,Gujarat,Credit Card
+f69ea7b5,2023-04-20,Customer_50,Sofa,Furniture,2,23987,1841.55,Haryana,Debit Card
+3fa1211b,2023-12-29,Customer_137,Refrigerator,Home Appliances,1,29528,5665.23,Punjab,Net Banking
+b2eadfcb,2023-09-07,Customer_116,T-Shirt,Fashion,1,1477,292.94,Uttar Pradesh,UPI
+df3c3f60,2024-02-20,Customer_195,Refrigerator,Home Appliances,5,29949,1680.59,Uttar Pradesh,Credit Card
+51f3d578,2023-03-26,Customer_256,Refrigerator,Home Appliances,3,30317,17777.81,Delhi,Net Banking
+663b1799,2023-02-13,Customer_118,Shoes,Fashion,5,2947,798.92,Delhi,Debit Card
+6523061a,2024-07-10,Customer_289,Laptop,Electronics,2,56804,19323.08,Uttar Pradesh,Credit Card
+0855f7aa,2024-08-24,Customer_74,Refrigerator,Home Appliances,1,29225,949.52,Bihar,Net Banking
+1651c3f5,2024-02-03,Customer_277,Watch,Fashion,4,6094,3606.41,Delhi,Net Banking
+4513db0e,2023-12-21,Customer_28,Smartphone,Electronics,4,18950,12714.31,Madhya Pradesh,Net Banking
+ea3db955,2024-09-20,Customer_204,Watch,Fashion,1,5597,305.96,Punjab,Cash on Delivery
+8ce5d0d3,2023-08-22,Customer_183,Sofa,Furniture,4,24768,3680.28,West Bengal,Cash on Delivery
+dea81c02,2023-03-29,Customer_152,Shoes,Fashion,1,1336,71.6,Gujarat,Credit Card
+0343452b,2024-02-03,Customer_163,Watch,Fashion,1,3374,3.51,Rajasthan,Cash on Delivery
+6dd5d73b,2024-01-04,Customer_139,Smartphone,Electronics,2,18357,1375.98,Punjab,Net Banking
+fd282b30,2024-07-22,Customer_263,Refrigerator,Home Appliances,1,28107,503.78,Haryana,UPI
+e27fd24e,2024-09-03,Customer_167,Refrigerator,Home Appliances,1,29195,2416.24,Delhi,Net Banking
+b5cb4bf9,2023-09-06,Customer_293,Sofa,Furniture,2,25807,3930.22,Maharashtra,Debit Card
+7663963a,2023-11-05,Customer_138,Microwave,Home Appliances,2,10259,686.15,Rajasthan,Cash on Delivery
+37b62519,2023-11-03,Customer_248,Smartphone,Electronics,3,19030,10781.13,Punjab,Net Banking
+eb52f9d6,2024-09-23,Customer_101,Microwave,Home Appliances,1,10554,643.07,Gujarat,Debit Card
+7ae6b888,2024-09-27,Customer_195,Watch,Fashion,4,4371,1505.78,West Bengal,Credit Card
+a66cb139,2023-11-04,Customer_165,Chair,Furniture,2,3962,497.92,Gujarat,Debit Card
+45da8fbd,2023-10-26,Customer_252,Chair,Furniture,2,3334,501.51,Gujarat,Debit Card
+7955390b,2023-04-27,Customer_289,Shoes,Fashion,5,3234,581.88,Haryana,UPI
+e4a147dc,2024-04-17,Customer_108,Microwave,Home Appliances,3,13404,5572.06,Gujarat,Cash on Delivery
+e3caa458,2023-05-23,Customer_156,Shoes,Fashion,3,3697,341.92,Gujarat,Cash on Delivery
+216c3b2b,2023-03-17,Customer_230,Chair,Furniture,4,4384,1405.7,Haryana,Cash on Delivery
+22427de5,2024-07-10,Customer_19,Watch,Fashion,5,5432,3466.6,Delhi,UPI
+e63e90b9,2023-09-12,Customer_182,Headphones,Electronics,5,181,101.94,Gujarat,Debit Card
+10dfa1ac,2024-03-16,Customer_55,Laptop,Electronics,1,54059,2400.23,Haryana,Net Banking
+08ff3bd4,2024-08-17,Customer_295,Shoes,Fashion,4,2532,792.28,West Bengal,Net Banking
+64a10630,2023-06-04,Customer_177,Laptop,Electronics,4,53428,12627.48,Delhi,UPI
+f4ff6840,2023-05-26,Customer_179,T-Shirt,Fashion,3,665,312.92,Haryana,Cash on Delivery
+888ed7b0,2023-12-23,Customer_244,Smartphone,Electronics,4,20957,11681.65,Madhya Pradesh,UPI
+6de4cf69,2023-11-04,Customer_23,Smartphone,Electronics,1,21478,1473.73,Delhi,Credit Card
+1a2dbef5,2023-09-07,Customer_265,Headphones,Electronics,5,655,216.8,Gujarat,Cash on Delivery
+08223b06,2023-08-26,Customer_208,Headphones,Electronics,2,2623,689.65,Gujarat,UPI
+fb7c22d8,2024-09-20,Customer_102,Microwave,Home Appliances,5,11759,4572.32,Bihar,Credit Card
+86e9cfed,2023-10-13,Customer_33,Chair,Furniture,1,5274,919.76,Maharashtra,Debit Card
+eb7ad561,2023-11-30,Customer_101,Microwave,Home Appliances,1,11074,1485.47,Punjab,Net Banking
+45ac5b6b,2024-10-16,Customer_161,Chair,Furniture,4,4503,1414.1,Delhi,Debit Card
+5411d61f,2023-12-27,Customer_235,Chair,Furniture,2,5333,1436.9,Rajasthan,Net Banking
+43352125,2024-08-27,Customer_44,Headphones,Electronics,3,482,69.0,Delhi,Credit Card
+e5327094,2024-01-18,Customer_73,Sofa,Furniture,4,24713,11791.58,West Bengal,Cash on Delivery
+2b5cf362,2024-03-09,Customer_96,Microwave,Home Appliances,5,12840,11802.03,Maharashtra,Net Banking
+adeb79c7,2023-06-20,Customer_251,T-Shirt,Fashion,2,-434,-54.61,Punjab,Net Banking
+5d61a7e4,2023-02-24,Customer_184,Laptop,Electronics,4,53559,8360.71,Gujarat,Net Banking
+820baff9,2024-06-01,Customer_254,Refrigerator,Home Appliances,4,29702,16874.12,Punjab,Cash on Delivery
+4e8c4192,2023-06-21,Customer_43,Chair,Furniture,1,5259,800.48,Rajasthan,UPI
+79cedc88,2023-10-09,Customer_116,Sofa,Furniture,3,23688,11096.5,West Bengal,Cash on Delivery
+24a37723,2024-07-16,Customer_262,Smartphone,Electronics,5,18467,4947.1,Haryana,Debit Card
+2a50d11b,2024-07-09,Customer_22,Microwave,Home Appliances,5,10895,10783.61,Delhi,Credit Card
+26976e5c,2023-11-01,Customer_17,Microwave,Home Appliances,3,11427,5911.41,Delhi,Cash on Delivery
+9c5c4276,2023-05-01,Customer_122,Shoes,Fashion,5,3822,1340.11,West Bengal,Cash on Delivery
+cefbba7e,2023-06-19,Customer_72,Shoes,Fashion,2,4299,102.07,Madhya Pradesh,Net Banking
+75057105,2023-10-15,Customer_276,Headphones,Electronics,3,2883,506.2,West Bengal,Debit Card
+ff968c17,2024-06-10,Customer_49,Headphones,Electronics,4,3763,178.47,Rajasthan,Credit Card
+108d8466,2024-12-19,Customer_68,Shoes,Fashion,2,3913,504.15,Bihar,Cash on Delivery
+f57e08f7,2024-05-16,Customer_73,Chair,Furniture,3,4571,1136.05,Punjab,UPI
+ace3a63b,2024-10-10,Customer_48,Refrigerator,Home Appliances,5,31071,8644.75,Madhya Pradesh,Cash on Delivery
+09d1dc62,2024-05-14,Customer_168,Chair,Furniture,1,5559,860.68,Delhi,Cash on Delivery
+c6322187,2024-10-12,Customer_184,Smartphone,Electronics,5,19629,4275.78,Gujarat,Credit Card
+9a234bec,2024-05-21,Customer_138,Watch,Fashion,3,4383,1439.32,Maharashtra,Net Banking
+a7625854,2024-05-11,Customer_176,Laptop,Electronics,1,53407,6688.47,Punjab,UPI
+a080cc5f,2023-05-08,Customer_81,Microwave,Home Appliances,4,10002,7936.29,Gujarat,Credit Card
+066f9b5a,2024-12-06,Customer_68,T-Shirt,Fashion,2,2381,888.33,Rajasthan,UPI
+e16b656c,2024-11-01,Customer_185,T-Shirt,Fashion,1,323,42.93,Maharashtra,UPI
+b08285aa,2024-02-10,Customer_157,Shoes,Fashion,4,3684,268.78,Delhi,UPI
+ddcecb21,2023-08-07,Customer_245,Smartphone,Electronics,2,20431,1848.52,Punjab,UPI
+77dbf1c4,2023-01-09,Customer_176,Smartphone,Electronics,4,20842,2203.84,Delhi,Credit Card
+7d3dd907,2024-01-28,Customer_46,Smartphone,Electronics,1,19283,1417.54,Rajasthan,Credit Card
+be457184,2024-01-27,Customer_69,Headphones,Electronics,1,2172,244.69,West Bengal,Credit Card
+139113a0,2024-03-26,Customer_180,Shoes,Fashion,2,4767,785.05,Punjab,Credit Card
+c9a90ff2,2023-03-30,Customer_52,Headphones,Electronics,1,2414,352.45,Madhya Pradesh,Cash on Delivery
+b938afac,2023-11-19,Customer_72,Shoes,Fashion,3,3640,184.0,Haryana,Net Banking
+6587244c,2024-09-06,Customer_146,Laptop,Electronics,3,53841,16725.68,Haryana,Credit Card
+d988dd35,2024-02-06,Customer_152,Laptop,Electronics,2,55027,8493.65,Bihar,Cash on Delivery
+6be18a6d,2024-10-15,Customer_37,Sofa,Furniture,1,24479,4572.31,Maharashtra,Cash on Delivery
+cd63edfe,2024-08-05,Customer_216,Watch,Fashion,5,5797,1001.55,Punjab,UPI
+d0f845d3,2023-01-18,Customer_35,Laptop,Electronics,3,53883,1287.59,Uttar Pradesh,Cash on Delivery
+e73c2e81,2024-06-02,Customer_147,Sofa,Furniture,4,24734,13886.87,Delhi,Net Banking
+3428c754,2024-07-04,Customer_79,T-Shirt,Fashion,1,69,1.09,Bihar,Credit Card
+1e94e723,2024-07-03,Customer_168,Refrigerator,Home Appliances,5,30598,23353.13,Delhi,Debit Card
+c1c16be8,2024-12-16,Customer_224,Shoes,Fashion,1,2001,34.5,Gujarat,UPI
+c17de3e2,2024-04-09,Customer_29,T-Shirt,Fashion,2,-711,-3.6,Maharashtra,UPI
+13fd2e12,2023-06-17,Customer_255,Watch,Fashion,5,5118,4007.33,Rajasthan,Credit Card
+556523a9,2024-01-16,Customer_65,T-Shirt,Fashion,1,1959,352.58,Madhya Pradesh,Cash on Delivery
+5beb1d8b,2023-10-06,Customer_269,Smartphone,Electronics,3,20917,12237.08,Delhi,Cash on Delivery
+75ddf5a8,2024-04-11,Customer_262,Watch,Fashion,1,5046,867.27,Maharashtra,Debit Card
+8833debc,2023-06-11,Customer_131,Smartphone,Electronics,5,20761,15005.6,Bihar,Net Banking
+16f175c5,2023-01-03,Customer_23,Laptop,Electronics,2,53188,10036.89,Gujarat,Credit Card
+1cd162e6,2023-07-03,Customer_19,Sofa,Furniture,4,23919,6157.75,Gujarat,Debit Card
+1f06aa05,2023-10-05,Customer_40,Chair,Furniture,3,2489,749.75,Uttar Pradesh,Credit Card
+ef9c4eff,2023-08-17,Customer_265,Laptop,Electronics,4,53282,37382.28,Rajasthan,Debit Card
+e5234a61,2023-12-02,Customer_45,Sofa,Furniture,4,23032,6797.56,Rajasthan,Net Banking
+f3602332,2023-11-08,Customer_125,Microwave,Home Appliances,3,12423,7244.03,Bihar,Net Banking
+d07337c5,2023-09-09,Customer_78,Laptop,Electronics,4,53097,9897.18,Madhya Pradesh,UPI
+1aeb9970,2023-12-10,Customer_1,Refrigerator,Home Appliances,3,28425,3499.59,Bihar,Cash on Delivery
+c895ddb3,2024-05-18,Customer_31,Headphones,Electronics,3,381,10.04,Bihar,Net Banking
+4433bebe,2024-02-27,Customer_191,Microwave,Home Appliances,1,12378,236.61,Maharashtra,Cash on Delivery
+15daebd5,2023-03-18,Customer_291,Laptop,Electronics,4,55713,42975.59,Bihar,Debit Card
+9dc4c44e,2023-09-25,Customer_162,Refrigerator,Home Appliances,3,29302,7960.03,Bihar,UPI
+8c21926e,2023-07-27,Customer_70,Chair,Furniture,1,2636,55.7,Punjab,Cash on Delivery
+e6f0b2e0,2023-11-18,Customer_209,Smartphone,Electronics,5,19467,18778.54,Bihar,Cash on Delivery
+632ef256,2023-11-12,Customer_238,T-Shirt,Fashion,1,-830,-26.16,Rajasthan,Net Banking
+f9e0a00c,2023-02-11,Customer_111,Watch,Fashion,2,3373,959.49,Madhya Pradesh,Cash on Delivery
+041255f1,2024-06-09,Customer_26,T-Shirt,Fashion,3,2159,1283.32,Uttar Pradesh,Cash on Delivery
+81d00bae,2024-04-08,Customer_285,Sofa,Furniture,2,23387,4322.32,Maharashtra,UPI
+0f367486,2023-01-13,Customer_32,Shoes,Fashion,2,1811,596.67,Madhya Pradesh,UPI
+7bcef63b,2024-08-19,Customer_133,Smartphone,Electronics,1,18264,722.34,Punjab,Credit Card
+9c6633ec,2023-04-05,Customer_170,Smartphone,Electronics,1,21859,2015.38,Maharashtra,Net Banking
+35007b3c,2024-03-19,Customer_203,Microwave,Home Appliances,1,11567,1580.54,Maharashtra,Debit Card
+ddef4438,2023-08-08,Customer_96,T-Shirt,Fashion,3,626,331.81,Uttar Pradesh,Net Banking
+c75afb0c,2024-09-26,Customer_126,T-Shirt,Fashion,4,487,343.93,Punjab,UPI
+f1933cb9,2023-03-31,Customer_144,Refrigerator,Home Appliances,2,29717,2370.92,Haryana,Credit Card
+7ac017e9,2024-10-07,Customer_279,Laptop,Electronics,4,56202,32074.29,Punjab,Net Banking
+1a9bbf51,2024-05-11,Customer_177,Chair,Furniture,5,3317,1288.26,Maharashtra,UPI
+99b38335,2023-11-23,Customer_113,Laptop,Electronics,3,53239,25831.15,Punjab,Net Banking
+84338517,2024-01-02,Customer_300,Shoes,Fashion,2,1410,139.79,Bihar,Debit Card
+cac849e0,2024-06-30,Customer_29,Shoes,Fashion,5,4467,4389.56,Gujarat,Debit Card
+57315d6d,2023-06-27,Customer_91,Shoes,Fashion,5,2302,1855.9,Madhya Pradesh,Net Banking
+b349d52a,2023-01-29,Customer_181,Chair,Furniture,5,2582,1453.95,Bihar,Cash on Delivery
+b6182a78,2024-07-09,Customer_159,Headphones,Electronics,4,155,11.19,Bihar,Net Banking
+140d00c8,2023-08-13,Customer_11,Sofa,Furniture,4,23002,6104.44,West Bengal,Credit Card
+8ee8e204,2023-05-14,Customer_175,Headphones,Electronics,3,243,3.19,West Bengal,Credit Card
+a4ffe672,2023-04-24,Customer_270,Watch,Fashion,1,4530,638.31,Gujarat,Net Banking
+3d1b94ae,2023-04-14,Customer_173,T-Shirt,Fashion,3,-642,-375.9,Gujarat,Cash on Delivery
+b5317b23,2024-10-26,Customer_163,Headphones,Electronics,5,2840,2526.46,West Bengal,Debit Card
+42ec88b0,2023-08-17,Customer_90,Refrigerator,Home Appliances,3,31006,12808.55,Maharashtra,Credit Card
+f8898ef7,2023-01-02,Customer_294,Refrigerator,Home Appliances,5,28132,5122.32,Madhya Pradesh,Net Banking
+c42c736d,2023-08-15,Customer_290,Smartphone,Electronics,4,18576,4921.43,Delhi,Credit Card
+66cc51c5,2023-12-22,Customer_164,Headphones,Electronics,1,3365,477.13,Madhya Pradesh,Cash on Delivery
+405e65d6,2023-01-12,Customer_136,Shoes,Fashion,2,3839,104.11,Rajasthan,UPI
+abfe0fd7,2023-01-02,Customer_25,Refrigerator,Home Appliances,4,31000,10407.4,Maharashtra,Cash on Delivery
+00aa25b0,2024-05-19,Customer_194,Watch,Fashion,5,4537,460.18,Punjab,Net Banking
+7174571b,2024-10-28,Customer_116,Headphones,Electronics,4,301,192.45,Uttar Pradesh,Debit Card
+4c44c1a8,2023-01-21,Customer_164,T-Shirt,Fashion,1,-897,-61.32,Gujarat,Credit Card
+b31789d0,2023-03-18,Customer_281,Smartphone,Electronics,3,20433,12079.29,Punjab,UPI
+21fd7a4a,2024-03-17,Customer_85,Chair,Furniture,4,2643,113.24,Madhya Pradesh,Credit Card
+b189acc1,2023-07-14,Customer_210,Sofa,Furniture,5,24086,15911.16,Rajasthan,Credit Card
+6ad1bf09,2023-04-09,Customer_26,Refrigerator,Home Appliances,5,30251,25406.44,Maharashtra,UPI
+aa717b5e,2024-01-05,Customer_2,Refrigerator,Home Appliances,1,29206,4812.55,West Bengal,Cash on Delivery
+fc14e74a,2023-07-24,Customer_50,Laptop,Electronics,2,53699,13708.08,Delhi,Cash on Delivery
+41550aed,2023-04-29,Customer_158,Refrigerator,Home Appliances,4,30003,21479.21,Rajasthan,UPI
+458ffbeb,2024-10-19,Customer_279,Refrigerator,Home Appliances,2,29519,10455.54,Madhya Pradesh,Credit Card
+5e9dea85,2024-04-01,Customer_23,T-Shirt,Fashion,4,704,148.35,Rajasthan,Net Banking
+e450745a,2023-03-05,Customer_78,Smartphone,Electronics,1,20736,1425.77,Haryana,Cash on Delivery
+12d7b149,2024-08-26,Customer_117,Sofa,Furniture,1,26443,2047.25,Haryana,Cash on Delivery
+b958cbcb,2024-07-02,Customer_244,Chair,Furniture,2,3950,472.19,Gujarat,UPI
+7542f2e7,2024-05-29,Customer_293,Sofa,Furniture,5,25775,25330.5,Maharashtra,UPI
+c1847029,2024-04-04,Customer_89,Headphones,Electronics,2,3311,255.25,Uttar Pradesh,Cash on Delivery
+ad5a4aeb,2023-03-22,Customer_223,Shoes,Fashion,2,4416,1051.09,Madhya Pradesh,UPI
+61a2a378,2023-03-31,Customer_199,Sofa,Furniture,4,25261,6590.63,Rajasthan,Net Banking
+6fdec66a,2024-04-14,Customer_7,Chair,Furniture,5,4140,3236.18,Delhi,Cash on Delivery
+2cdc71ef,2023-06-03,Customer_76,Chair,Furniture,5,4386,3326.24,Delhi,UPI
+d8d49b9f,2024-07-30,Customer_52,T-Shirt,Fashion,5,2405,827.01,Gujarat,Debit Card
+dc8e4aea,2024-01-28,Customer_249,Chair,Furniture,5,3937,147.5,Rajasthan,Cash on Delivery
+1c726f8d,2023-05-28,Customer_206,Laptop,Electronics,4,56643,39829.44,Bihar,UPI
+0e39fa26,2024-05-01,Customer_138,Watch,Fashion,1,4383,716.52,Rajasthan,Debit Card
+2dbcd112,2023-10-15,Customer_252,Smartphone,Electronics,2,18550,2229.56,Punjab,Debit Card
+c5ac3df4,2023-10-03,Customer_214,Chair,Furniture,1,2769,244.62,Gujarat,Cash on Delivery
+41132221,2024-06-12,Customer_192,Laptop,Electronics,5,56241,8940.77,Rajasthan,Net Banking
+6139eb8b,2024-02-18,Customer_70,Sofa,Furniture,5,23118,4016.46,Bihar,UPI
+943da3fb,2023-09-13,Customer_17,Microwave,Home Appliances,1,13760,991.75,Bihar,Debit Card
+847f466a,2024-01-13,Customer_238,Sofa,Furniture,4,25602,18906.02,Uttar Pradesh,Credit Card
+db5bdc53,2024-01-17,Customer_251,Chair,Furniture,4,2727,2095.47,Punjab,Net Banking
+d69eae9e,2024-07-18,Customer_180,Watch,Fashion,2,6431,2300.99,Delhi,Debit Card
+ad2586cf,2023-01-29,Customer_198,Laptop,Electronics,2,56497,12932.35,Bihar,Credit Card
+ebedc90f,2024-10-24,Customer_116,Shoes,Fashion,3,3668,901.24,Uttar Pradesh,UPI
+456a18a0,2024-04-30,Customer_68,Headphones,Electronics,5,3280,27.76,Rajasthan,Net Banking
+0a771f00,2023-11-09,Customer_141,Refrigerator,Home Appliances,4,31488,8784.12,Rajasthan,Credit Card
+2efd509e,2024-04-22,Customer_155,Sofa,Furniture,5,24626,14393.58,Uttar Pradesh,Net Banking
+daee6a05,2024-11-09,Customer_192,Sofa,Furniture,5,25494,7206.56,Delhi,Cash on Delivery
+317951fc,2023-03-07,Customer_173,T-Shirt,Fashion,3,2328,386.75,Rajasthan,Credit Card
+030a4fa7,2023-06-03,Customer_265,Shoes,Fashion,1,4299,737.12,West Bengal,Cash on Delivery
+3a51d12b,2024-11-07,Customer_164,Headphones,Electronics,1,2684,266.99,Rajasthan,Debit Card
+47030f47,2024-03-04,Customer_208,Refrigerator,Home Appliances,1,30388,4303.36,West Bengal,Credit Card
+e79e1abf,2023-12-18,Customer_114,Sofa,Furniture,4,26713,20102.45,Madhya Pradesh,Net Banking
+3c72f779,2023-11-04,Customer_88,Sofa,Furniture,2,24203,944.91,Maharashtra,Debit Card
+17edabd0,2024-07-26,Customer_94,Watch,Fashion,1,3910,277.83,Rajasthan,Cash on Delivery
+31ef9075,2023-12-06,Customer_191,T-Shirt,Fashion,5,4,1.86,Delhi,Cash on Delivery
+d413a2b9,2023-02-24,Customer_299,Chair,Furniture,5,2291,1081.86,Bihar,Net Banking
+d7b8c339,2023-05-03,Customer_196,Sofa,Furniture,3,24692,800.94,Maharashtra,Credit Card
+dd3e2e24,2023-07-25,Customer_176,Refrigerator,Home Appliances,5,31657,28700.9,Punjab,Credit Card
+43be7976,2023-11-20,Customer_93,Smartphone,Electronics,4,19362,9774.45,Maharashtra,Debit Card
+58580834,2024-10-11,Customer_30,Laptop,Electronics,4,54120,9065.42,Maharashtra,Net Banking
+50470707,2023-06-12,Customer_251,Smartphone,Electronics,2,20516,3559.21,Gujarat,Cash on Delivery
+89cedd60,2024-03-15,Customer_245,Refrigerator,Home Appliances,1,28154,3005.62,Madhya Pradesh,UPI
+53afcb1f,2023-11-26,Customer_272,Shoes,Fashion,1,3771,3.11,Bihar,Credit Card
+a295ec19,2024-12-11,Customer_177,T-Shirt,Fashion,2,-780,-119.67,West Bengal,Debit Card
+2f2c3267,2023-06-21,Customer_34,Laptop,Electronics,3,56884,9926.07,Haryana,Net Banking
+a003076a,2024-06-20,Customer_173,Refrigerator,Home Appliances,2,29403,11715.79,Punjab,Debit Card
+204e87c2,2023-07-12,Customer_85,Refrigerator,Home Appliances,1,28935,1298.15,Maharashtra,Credit Card
+d700a1c7,2023-01-23,Customer_259,Headphones,Electronics,1,1501,213.48,Uttar Pradesh,Cash on Delivery
+1d64bf81,2024-10-17,Customer_131,Sofa,Furniture,5,23199,13778.44,Uttar Pradesh,UPI
+857fa7c0,2024-10-31,Customer_11,Laptop,Electronics,1,54707,4861.42,Delhi,Net Banking
+f1861927,2023-09-16,Customer_243,Headphones,Electronics,2,2847,780.92,Uttar Pradesh,Debit Card
+e1c047ee,2024-03-06,Customer_52,Sofa,Furniture,3,25550,9284.37,Maharashtra,Cash on Delivery
+58ab5d77,2023-04-18,Customer_262,Chair,Furniture,1,3157,71.99,Delhi,Cash on Delivery
+d6f0fec9,2023-07-23,Customer_103,T-Shirt,Fashion,5,2785,561.66,Gujarat,Debit Card
+32e1b935,2023-06-14,Customer_21,Sofa,Furniture,4,26728,4441.0,Punjab,Debit Card
+9cd398d8,2023-08-29,Customer_2,Laptop,Electronics,1,56714,1252.6,West Bengal,Cash on Delivery
+f34473c2,2023-06-02,Customer_47,Sofa,Furniture,1,25963,3757.24,Rajasthan,Credit Card
+84ee66a6,2024-04-12,Customer_152,T-Shirt,Fashion,4,-995,-79.45,Maharashtra,UPI
+630f081d,2023-10-25,Customer_185,Watch,Fashion,4,6025,558.64,Uttar Pradesh,UPI
+9bedb8fc,2023-05-22,Customer_88,Watch,Fashion,3,6663,1749.9,West Bengal,Debit Card
+cdf83721,2023-04-06,Customer_191,Watch,Fashion,2,3466,555.64,Punjab,Debit Card
+9ab0fbf3,2024-01-30,Customer_245,Refrigerator,Home Appliances,2,28463,1508.67,Uttar Pradesh,Credit Card
+35e1ce7d,2023-04-17,Customer_214,Chair,Furniture,4,5286,2405.95,Punjab,Credit Card
+cbac397c,2024-09-17,Customer_195,Watch,Fashion,5,3118,2689.51,Maharashtra,Cash on Delivery
+56127ec3,2024-05-14,Customer_58,Refrigerator,Home Appliances,4,28188,1428.25,Madhya Pradesh,UPI
+dd02fa20,2024-12-22,Customer_269,Chair,Furniture,5,2917,2852.52,Madhya Pradesh,Net Banking
+c0f27bab,2024-06-19,Customer_49,Refrigerator,Home Appliances,2,29973,4145.26,Gujarat,Credit Card
+35d228b2,2024-07-25,Customer_28,Laptop,Electronics,2,55070,18698.37,Punjab,Credit Card
+6c737ede,2023-03-18,Customer_252,Watch,Fashion,2,4355,1689.99,Uttar Pradesh,Net Banking
+6d6cf5f4,2023-08-17,Customer_282,Refrigerator,Home Appliances,4,31346,5893.05,Punjab,Cash on Delivery
+1b328f53,2024-08-09,Customer_230,Smartphone,Electronics,4,19831,5014.25,Punjab,UPI
+14451194,2023-04-16,Customer_207,Refrigerator,Home Appliances,1,30282,3325.56,Delhi,Net Banking
+ca462a1d,2024-09-25,Customer_156,Sofa,Furniture,5,23847,15610.15,Punjab,Debit Card
+9101d250,2024-01-08,Customer_28,Shoes,Fashion,4,2359,1057.12,West Bengal,Net Banking
+08fa62be,2024-04-29,Customer_187,Microwave,Home Appliances,1,10399,1579.23,Bihar,UPI
+e82cb22e,2023-12-16,Customer_182,T-Shirt,Fashion,5,938,350.71,Delhi,UPI
+b9f976d9,2023-06-18,Customer_253,Headphones,Electronics,4,438,89.1,Bihar,Credit Card
+82ee0f4d,2023-05-04,Customer_202,Shoes,Fashion,4,4377,2736.22,Madhya Pradesh,UPI
+584c5fe4,2024-02-29,Customer_24,Chair,Furniture,1,5162,920.65,Punjab,Net Banking
+a03fe704,2024-05-31,Customer_69,Microwave,Home Appliances,1,12172,1792.24,Haryana,Cash on Delivery
+222a9a9d,2024-08-22,Customer_248,Sofa,Furniture,2,25833,5978.32,Maharashtra,UPI
+42830856,2024-02-01,Customer_165,Sofa,Furniture,4,24714,19365.91,Bihar,Debit Card
+ce1fc4da,2024-02-12,Customer_176,T-Shirt,Fashion,4,2096,223.64,Gujarat,Net Banking
+a6d3b276,2024-12-17,Customer_263,T-Shirt,Fashion,5,2325,729.84,Haryana,Credit Card
+97e8f8b6,2023-07-25,Customer_108,Chair,Furniture,3,4812,996.93,Maharashtra,Credit Card
+097fceaa,2024-05-30,Customer_278,Watch,Fashion,1,6116,430.86,Punjab,Net Banking
+428efe0f,2024-08-07,Customer_214,Sofa,Furniture,3,26594,13519.88,Uttar Pradesh,Net Banking
+0d8e634c,2023-04-20,Customer_13,Refrigerator,Home Appliances,2,28217,7565.02,Bihar,Debit Card
+2d3e0b65,2023-06-14,Customer_147,T-Shirt,Fashion,2,2238,55.53,Rajasthan,Credit Card
+546227d2,2024-07-08,Customer_17,Watch,Fashion,4,3419,1685.18,Haryana,Credit Card
+86bef2f4,2024-10-24,Customer_288,Refrigerator,Home Appliances,2,30092,9440.55,Rajasthan,UPI
+a9b22eaf,2024-01-26,Customer_199,Refrigerator,Home Appliances,3,31956,10586.22,Uttar Pradesh,Debit Card
+538f8860,2023-07-27,Customer_227,Shoes,Fashion,3,4092,1444.6,West Bengal,Credit Card
+71f6dc93,2023-07-18,Customer_151,Microwave,Home Appliances,2,12796,381.16,Maharashtra,Net Banking
+7b7fee26,2023-05-03,Customer_194,Laptop,Electronics,4,54143,24108.74,Maharashtra,Credit Card
+ce47166c,2024-08-21,Customer_131,Laptop,Electronics,3,54910,23381.42,Maharashtra,UPI
+2d14a2aa,2023-06-07,Customer_166,Chair,Furniture,1,5168,963.71,West Bengal,Debit Card
+a610e0ce,2024-05-17,Customer_294,Sofa,Furniture,3,23298,10959.82,Madhya Pradesh,Net Banking
+3dfe5462,2023-08-14,Customer_95,Sofa,Furniture,1,26220,2648.96,Gujarat,Net Banking
+afebe775,2024-07-03,Customer_207,Smartphone,Electronics,3,18906,10020.9,Madhya Pradesh,Debit Card
+7e55c3d8,2024-01-05,Customer_151,Shoes,Fashion,5,3172,1506.25,Haryana,UPI
+18148236,2023-04-28,Customer_178,Microwave,Home Appliances,2,13704,3520.64,West Bengal,Credit Card
+e0f04ca7,2023-02-10,Customer_165,Refrigerator,Home Appliances,1,29580,1517.99,Rajasthan,UPI
+3b1b200b,2024-06-13,Customer_192,Sofa,Furniture,5,24825,12084.93,Rajasthan,Credit Card
+1030fc55,2023-11-25,Customer_264,Smartphone,Electronics,1,18685,3630.98,Haryana,Net Banking
+b1761de9,2023-01-08,Customer_34,Shoes,Fashion,2,4542,1245.24,Delhi,Credit Card
+5b2759d2,2024-07-04,Customer_223,Smartphone,Electronics,2,18097,3324.24,Madhya Pradesh,UPI
+27377855,2023-03-31,Customer_38,Laptop,Electronics,2,56253,5668.23,Delhi,Net Banking
+28a5803d,2023-08-22,Customer_133,Refrigerator,Home Appliances,4,29847,15048.08,Gujarat,Debit Card
+1683dfaf,2023-01-18,Customer_200,Smartphone,Electronics,5,18024,11561.0,West Bengal,UPI
+06ab82de,2024-08-22,Customer_24,Smartphone,Electronics,3,21801,6577.41,Rajasthan,Debit Card
+c5552b36,2024-09-13,Customer_45,T-Shirt,Fashion,4,362,114.42,Uttar Pradesh,Cash on Delivery
+0de0a489,2023-06-10,Customer_274,Shoes,Fashion,2,4058,634.66,Haryana,Debit Card
+d1511a87,2024-10-11,Customer_74,T-Shirt,Fashion,3,2721,1550.1,Haryana,Net Banking
+222e8e7f,2023-05-25,Customer_64,Laptop,Electronics,1,55345,6604.37,Haryana,Net Banking
+2a70797e,2023-03-29,Customer_157,Shoes,Fashion,3,1867,462.26,Haryana,Credit Card
+8e7cf825,2023-06-14,Customer_95,Shoes,Fashion,5,4419,1116.87,Delhi,Credit Card
+36e7bee9,2024-11-18,Customer_291,Laptop,Electronics,5,54889,35385.54,Delhi,Debit Card
+b2e4446b,2024-11-18,Customer_35,T-Shirt,Fashion,1,-392,-56.89,Punjab,Debit Card
+d408aa9e,2024-01-01,Customer_66,Shoes,Fashion,1,2167,268.5,Bihar,Debit Card
+2b92d8d7,2024-05-12,Customer_231,Watch,Fashion,5,5700,1742.35,West Bengal,Credit Card
+78a3ab5a,2024-08-02,Customer_291,Watch,Fashion,3,6926,1779.87,Uttar Pradesh,Debit Card
+ecae3dd4,2023-09-10,Customer_114,Refrigerator,Home Appliances,3,31441,6781.56,Madhya Pradesh,Cash on Delivery
+5eb56261,2024-04-18,Customer_229,Watch,Fashion,3,4994,1653.03,Maharashtra,Net Banking
+3384f638,2023-03-25,Customer_144,Headphones,Electronics,5,804,211.64,Delhi,UPI
+df9cda0f,2023-01-20,Customer_260,Laptop,Electronics,5,55371,22432.7,West Bengal,Credit Card
+ce845803,2023-02-07,Customer_283,T-Shirt,Fashion,5,2461,2457.87,Punjab,Credit Card
+e1f0727d,2024-01-10,Customer_201,Shoes,Fashion,5,4003,3431.23,Maharashtra,Cash on Delivery
+8773907d,2024-05-28,Customer_262,Smartphone,Electronics,4,19490,7829.79,Bihar,Net Banking
+5258d701,2024-12-01,Customer_85,Sofa,Furniture,2,24827,1581.21,West Bengal,Net Banking
+5e70a2ad,2024-11-06,Customer_75,Microwave,Home Appliances,3,10165,1334.58,Punjab,Credit Card
+52372e31,2023-03-06,Customer_136,Watch,Fashion,2,3175,849.1,Haryana,Debit Card
+f57fa185,2024-02-02,Customer_241,Microwave,Home Appliances,1,10163,1993.15,Madhya Pradesh,UPI
+9a26f635,2024-12-21,Customer_267,T-Shirt,Fashion,3,1170,382.13,Maharashtra,Cash on Delivery
+4518039c,2024-10-31,Customer_194,Watch,Fashion,5,5676,5098.33,Delhi,Net Banking
+84dd640f,2023-09-15,Customer_193,Shoes,Fashion,5,2662,939.41,Madhya Pradesh,Cash on Delivery
+49883252,2024-05-08,Customer_4,Sofa,Furniture,2,24801,1642.88,Delhi,Net Banking
+69702b42,2024-10-20,Customer_144,Shoes,Fashion,2,1765,111.09,West Bengal,UPI
+c49dda74,2024-11-07,Customer_118,Refrigerator,Home Appliances,3,30950,2104.7,Punjab,Cash on Delivery
+2c462c1a,2023-08-04,Customer_83,Refrigerator,Home Appliances,1,28998,250.22,West Bengal,Net Banking
+a84f41ef,2023-06-14,Customer_69,Sofa,Furniture,1,26648,3049.97,Uttar Pradesh,Credit Card
+e1f88704,2023-09-22,Customer_93,Sofa,Furniture,4,25454,19736.9,Uttar Pradesh,Debit Card
+4f3071fc,2023-03-29,Customer_111,Microwave,Home Appliances,5,11930,10346.92,Maharashtra,Credit Card
+8f5f6104,2024-02-25,Customer_74,Chair,Furniture,2,4552,1201.09,Rajasthan,Credit Card
+f4ec3540,2024-12-03,Customer_176,Microwave,Home Appliances,5,12419,854.96,Gujarat,Cash on Delivery
+6256773f,2023-05-16,Customer_56,Laptop,Electronics,2,55141,18959.5,Haryana,Cash on Delivery
+8282c8fd,2023-06-03,Customer_50,Headphones,Electronics,4,3692,1815.72,Uttar Pradesh,Net Banking
+7b2b6cd5,2024-05-30,Customer_61,Smartphone,Electronics,4,20700,2158.25,West Bengal,Net Banking
+adb05447,2023-01-02,Customer_221,Sofa,Furniture,4,24517,17158.45,Haryana,Cash on Delivery
+6aa730e0,2023-08-23,Customer_247,Refrigerator,Home Appliances,3,30412,14682.08,West Bengal,UPI
+12c00f17,2024-03-11,Customer_69,T-Shirt,Fashion,4,1936,360.12,Delhi,Debit Card
+52bd44ce,2024-09-04,Customer_279,Refrigerator,Home Appliances,3,28774,94.43,Uttar Pradesh,Net Banking
+7ad86fb1,2024-06-19,Customer_61,Sofa,Furniture,1,24536,3211.99,Madhya Pradesh,Cash on Delivery
+1cadb056,2024-01-06,Customer_55,Headphones,Electronics,4,2668,1249.41,Rajasthan,Net Banking
+51ab8591,2024-03-09,Customer_290,Watch,Fashion,5,4128,4094.14,Gujarat,Credit Card
+c71bc8e5,2024-02-28,Customer_283,Sofa,Furniture,4,23732,7028.72,Haryana,Cash on Delivery
+36ab5d49,2023-09-17,Customer_158,Chair,Furniture,3,5171,2188.87,Maharashtra,UPI
+976e01c4,2023-08-24,Customer_229,Headphones,Electronics,1,878,89.27,Madhya Pradesh,Net Banking
+762ed145,2024-09-20,Customer_27,Headphones,Electronics,4,3950,2009.37,Delhi,Credit Card
+d373d90a,2024-04-27,Customer_223,Smartphone,Electronics,1,19077,846.14,Delhi,Net Banking
+5005cb85,2023-02-08,Customer_197,Refrigerator,Home Appliances,5,30687,15988.1,West Bengal,UPI
+14e647a7,2023-06-29,Customer_254,Microwave,Home Appliances,1,10826,1841.65,Haryana,Debit Card
+2b9fe18e,2023-07-19,Customer_18,Chair,Furniture,5,4112,2872.03,West Bengal,Credit Card
+cee9557d,2024-11-21,Customer_19,Watch,Fashion,2,5682,0.65,Maharashtra,UPI
+35d8c8db,2023-10-10,Customer_205,Watch,Fashion,4,4660,2184.91,Haryana,UPI
+d0272569,2024-12-21,Customer_36,Smartphone,Electronics,5,19165,13916.45,Haryana,Net Banking
+7eaf042c,2023-12-23,Customer_178,T-Shirt,Fashion,2,1283,494.24,Punjab,Cash on Delivery
+9ae943d7,2024-08-11,Customer_3,T-Shirt,Fashion,2,467,94.57,Haryana,UPI
+c978c854,2024-05-30,Customer_151,Watch,Fashion,1,6288,645.51,Rajasthan,Net Banking
+41578a68,2024-08-11,Customer_129,Microwave,Home Appliances,4,12306,4761.24,Bihar,Debit Card
+db08d6ac,2024-04-14,Customer_236,Chair,Furniture,1,3974,92.41,Delhi,Cash on Delivery
+ee3e7d76,2024-10-10,Customer_113,Shoes,Fashion,3,2689,1541.52,Haryana,Net Banking
+4613531c,2023-01-10,Customer_135,Shoes,Fashion,3,1380,330.31,Madhya Pradesh,UPI
+c4a4c579,2024-07-21,Customer_92,Microwave,Home Appliances,3,11448,1501.29,West Bengal,Debit Card
+d099d61b,2023-07-07,Customer_98,Microwave,Home Appliances,2,10961,3224.42,Rajasthan,Credit Card
+159cec5d,2023-08-23,Customer_104,Shoes,Fashion,5,2458,383.44,Delhi,UPI
+b84b105b,2023-03-22,Customer_253,Chair,Furniture,1,5130,879.37,Uttar Pradesh,Cash on Delivery
+965fdb74,2024-01-16,Customer_162,Microwave,Home Appliances,5,13558,3724.83,Maharashtra,Net Banking
+760a2d24,2023-10-14,Customer_204,Shoes,Fashion,5,1525,82.58,Gujarat,Cash on Delivery
+1325864c,2024-07-07,Customer_17,Sofa,Furniture,3,24612,12705.7,Maharashtra,Cash on Delivery
+76a6207d,2023-05-04,Customer_266,Microwave,Home Appliances,3,12823,64.77,Bihar,Cash on Delivery
+e8e6a6ed,2024-08-17,Customer_52,Watch,Fashion,3,5509,2848.73,Maharashtra,Net Banking
+86d66eff,2023-09-27,Customer_122,T-Shirt,Fashion,4,2726,1337.01,Madhya Pradesh,Credit Card
+10857dbd,2024-05-25,Customer_218,Shoes,Fashion,4,3870,2328.8,Madhya Pradesh,Cash on Delivery
+99b9b505,2023-10-14,Customer_231,Headphones,Electronics,5,537,525.87,Bihar,UPI
+b51d4a52,2023-10-04,Customer_121,Sofa,Furniture,4,26507,8076.86,Maharashtra,Credit Card
+8099d5e5,2024-04-29,Customer_5,Headphones,Electronics,4,2046,220.1,Haryana,Net Banking
+b6eb85b1,2023-11-20,Customer_250,T-Shirt,Fashion,3,1102,567.64,Uttar Pradesh,Cash on Delivery
+903dbd77,2023-04-12,Customer_84,Laptop,Electronics,2,56333,5729.96,Delhi,Cash on Delivery
+ca0b1420,2023-12-09,Customer_134,Watch,Fashion,3,5295,1771.15,Rajasthan,Debit Card
+c7cd8407,2023-01-21,Customer_211,Smartphone,Electronics,3,21552,8787.86,West Bengal,Credit Card
+2c6749c6,2024-08-13,Customer_295,Sofa,Furniture,2,26196,2982.24,Madhya Pradesh,Net Banking
+c7835de5,2024-05-14,Customer_229,Smartphone,Electronics,4,20513,4701.97,Maharashtra,Credit Card
+8c6239c7,2024-10-17,Customer_173,Refrigerator,Home Appliances,5,30341,12281.21,Delhi,UPI
+91bbcba6,2023-06-15,Customer_176,Shoes,Fashion,3,2297,899.98,Rajasthan,Net Banking
+9aef4394,2024-10-22,Customer_203,T-Shirt,Fashion,4,1998,1379.11,Madhya Pradesh,Net Banking
+1da8dc23,2024-06-17,Customer_231,Refrigerator,Home Appliances,2,28753,9824.46,Maharashtra,Credit Card
+a3670fb1,2024-11-08,Customer_129,Smartphone,Electronics,2,18683,2967.2,Delhi,UPI
+b1978c9a,2024-04-29,Customer_281,Laptop,Electronics,1,56157,4459.01,Delhi,UPI
+81366134,2023-09-26,Customer_80,Smartphone,Electronics,4,19267,3535.2,Rajasthan,Cash on Delivery
+63b53978,2024-10-03,Customer_65,Headphones,Electronics,5,3434,585.87,Uttar Pradesh,Debit Card
+3169c8b1,2023-11-30,Customer_244,Microwave,Home Appliances,5,13829,3767.22,Punjab,Credit Card
+8571fe95,2024-12-15,Customer_277,Headphones,Electronics,5,2447,1117.16,West Bengal,Cash on Delivery
+3dc54158,2024-06-20,Customer_274,T-Shirt,Fashion,3,772,249.97,Delhi,Cash on Delivery
+cb7358b6,2023-11-12,Customer_188,Refrigerator,Home Appliances,3,28637,5216.05,Uttar Pradesh,Net Banking
+c1c7c771,2023-05-20,Customer_177,T-Shirt,Fashion,4,991,6.59,Punjab,Cash on Delivery
+d1f10a79,2023-11-03,Customer_5,Refrigerator,Home Appliances,3,30445,4223.61,Uttar Pradesh,Net Banking
+f51ff48a,2024-01-18,Customer_97,Refrigerator,Home Appliances,5,29790,11759.66,Maharashtra,Cash on Delivery
+ee21e26c,2024-01-23,Customer_113,T-Shirt,Fashion,1,529,66.16,Haryana,Net Banking
+cf555c66,2024-12-11,Customer_140,T-Shirt,Fashion,5,2112,567.75,Bihar,UPI
+3e788cce,2023-07-06,Customer_70,T-Shirt,Fashion,1,1408,128.22,Punjab,Debit Card
+e9bd1a89,2024-12-18,Customer_252,Shoes,Fashion,3,1079,98.5,Haryana,UPI
+d140e104,2023-07-10,Customer_53,T-Shirt,Fashion,3,-688,-295.23,Uttar Pradesh,Credit Card
+a8faee4d,2023-04-03,Customer_78,Laptop,Electronics,4,53889,14740.27,Rajasthan,Cash on Delivery
+640b86d7,2024-01-16,Customer_238,Laptop,Electronics,3,53328,26990.78,Maharashtra,UPI
+5745dfee,2023-09-30,Customer_201,Smartphone,Electronics,5,19925,3618.45,Rajasthan,Cash on Delivery
+7bba4e7a,2023-01-13,Customer_63,Shoes,Fashion,4,4158,3243.15,Bihar,UPI
+5994ca25,2023-07-23,Customer_236,Smartphone,Electronics,5,20727,20356.32,Punjab,Cash on Delivery
+4d0b82bd,2024-11-28,Customer_160,Watch,Fashion,2,5577,1624.55,Haryana,Net Banking
+86e60d46,2023-05-06,Customer_130,Microwave,Home Appliances,3,10813,2338.38,Uttar Pradesh,Credit Card
+3bf334a2,2023-04-26,Customer_121,Refrigerator,Home Appliances,3,28061,2817.78,Rajasthan,Net Banking
+95ccc4cd,2023-05-03,Customer_203,Shoes,Fashion,1,4968,41.72,Punjab,Net Banking
+adcac4fe,2023-06-08,Customer_191,Smartphone,Electronics,2,18645,3728.4,West Bengal,Debit Card
+3fd0502d,2024-10-02,Customer_31,Laptop,Electronics,3,55640,5138.41,Haryana,UPI
+fdfb797e,2023-05-09,Customer_250,Shoes,Fashion,3,3287,1555.2,Madhya Pradesh,Cash on Delivery
+2d2759be,2023-07-17,Customer_11,Refrigerator,Home Appliances,3,30967,2503.35,Uttar Pradesh,Cash on Delivery
+892e13cf,2024-12-24,Customer_225,Sofa,Furniture,3,25223,10548.83,Bihar,Net Banking
+19c3ce51,2023-07-11,Customer_279,Watch,Fashion,3,5999,1685.94,West Bengal,Net Banking
+dae46bf2,2023-06-14,Customer_36,Sofa,Furniture,2,24840,2937.8,Rajasthan,Net Banking
+3069f3b2,2024-01-11,Customer_233,Laptop,Electronics,5,54552,40022.5,Uttar Pradesh,Net Banking
+6281d046,2024-01-08,Customer_123,Watch,Fashion,1,5696,1101.79,Gujarat,Credit Card
+a4c2de71,2024-06-20,Customer_255,Sofa,Furniture,2,25511,2889.16,Gujarat,Debit Card
+86a04784,2023-04-24,Customer_50,Sofa,Furniture,1,23179,3871.79,Maharashtra,Credit Card
+e65d4e05,2023-02-02,Customer_104,Smartphone,Electronics,4,18784,1483.99,West Bengal,Cash on Delivery
+e785b669,2024-11-04,Customer_251,Sofa,Furniture,5,25872,15272.27,Uttar Pradesh,Debit Card
+2418b9e3,2023-08-15,Customer_37,Laptop,Electronics,2,55685,10945.57,Delhi,Cash on Delivery
+eb73e4e1,2024-10-16,Customer_32,Watch,Fashion,5,6045,5671.68,Gujarat,Debit Card
+a2e1ece7,2024-12-26,Customer_30,Chair,Furniture,3,4166,101.62,Delhi,Debit Card
+25912055,2023-03-21,Customer_111,Sofa,Furniture,1,23414,3395.84,Haryana,Cash on Delivery
+8c5a3975,2023-07-14,Customer_99,Sofa,Furniture,2,25334,6336.79,Maharashtra,Net Banking
+33a15af3,2024-07-25,Customer_213,Smartphone,Electronics,5,19466,13129.67,Gujarat,UPI
+275da524,2023-06-20,Customer_93,Sofa,Furniture,4,25067,6768.35,Maharashtra,Net Banking
+e15c0cba,2024-09-06,Customer_227,Watch,Fashion,3,5253,3124.89,Madhya Pradesh,Debit Card
+1770240f,2024-02-27,Customer_221,Watch,Fashion,5,3985,2244.13,Bihar,Cash on Delivery
+3963a7f7,2024-07-17,Customer_131,Watch,Fashion,4,4832,3710.3,Uttar Pradesh,UPI
+16abd5d4,2023-10-19,Customer_9,Sofa,Furniture,2,26646,3217.15,Rajasthan,Credit Card
+9557f219,2023-08-08,Customer_162,Laptop,Electronics,3,56764,18856.88,Haryana,Net Banking
+5e228995,2024-08-08,Customer_80,Smartphone,Electronics,1,19885,1414.44,Maharashtra,Debit Card
+57ebcf54,2024-01-11,Customer_299,Shoes,Fashion,2,2049,664.76,Delhi,Net Banking
+e7138acf,2024-02-14,Customer_292,Shoes,Fashion,1,3963,257.35,Punjab,Credit Card
+915b278a,2024-05-14,Customer_296,Smartphone,Electronics,5,20630,6197.11,West Bengal,Cash on Delivery
+8953a9f9,2023-03-22,Customer_29,Watch,Fashion,3,6603,3237.35,Gujarat,UPI
+ebe91b7d,2023-08-21,Customer_6,Refrigerator,Home Appliances,1,29248,3067.43,Madhya Pradesh,Net Banking
+3f226ebc,2024-08-01,Customer_77,Watch,Fashion,5,5858,1293.43,Uttar Pradesh,Cash on Delivery
+45297a17,2024-04-01,Customer_295,Sofa,Furniture,1,23909,2065.43,Gujarat,Credit Card
+faed5d6f,2023-05-16,Customer_173,Smartphone,Electronics,4,20340,12127.77,Haryana,Cash on Delivery
+87b2f5ea,2023-09-26,Customer_44,Refrigerator,Home Appliances,5,29779,23043.74,Maharashtra,Credit Card
+3a9df5c2,2024-05-07,Customer_287,Shoes,Fashion,4,2619,1366.59,Bihar,Net Banking
+8b84cb60,2024-09-22,Customer_269,Shoes,Fashion,2,1293,137.71,Gujarat,Debit Card
+34e5048a,2024-12-02,Customer_295,Smartphone,Electronics,1,20751,1716.45,Madhya Pradesh,Debit Card
+cd10ef69,2023-07-15,Customer_165,Watch,Fashion,5,5684,137.59,Rajasthan,Credit Card
+91d9a761,2023-12-25,Customer_227,Chair,Furniture,2,3804,68.29,Bihar,Credit Card
+c2033f3d,2024-12-02,Customer_192,Headphones,Electronics,1,460,68.04,Bihar,Net Banking
+8e22feb1,2023-06-01,Customer_148,Laptop,Electronics,3,55841,26947.11,Rajasthan,Cash on Delivery
+511e8871,2024-04-27,Customer_12,Watch,Fashion,2,6031,1297.88,Bihar,Net Banking
+f2b84bd7,2024-06-19,Customer_133,Sofa,Furniture,4,25551,14920.22,Maharashtra,UPI
+5d991516,2024-01-21,Customer_299,Sofa,Furniture,1,24046,819.1,Rajasthan,Credit Card
+81fb5262,2024-12-14,Customer_139,Laptop,Electronics,4,55681,42102.7,Delhi,Cash on Delivery
+44865987,2024-11-07,Customer_139,Watch,Fashion,1,3078,180.06,Gujarat,Credit Card
+6ea822d9,2024-01-25,Customer_261,Smartphone,Electronics,3,19985,10393.47,Haryana,UPI
+04913c45,2023-07-10,Customer_102,Sofa,Furniture,4,25296,18746.36,Uttar Pradesh,UPI
+73d214ff,2023-09-11,Customer_272,T-Shirt,Fashion,3,806,190.25,Maharashtra,UPI
+236b4dd0,2023-12-22,Customer_181,Watch,Fashion,3,3967,2370.67,Haryana,Debit Card
+711c90e2,2023-03-05,Customer_132,Refrigerator,Home Appliances,1,31867,3536.85,Rajasthan,Credit Card
+948602da,2023-06-05,Customer_175,Refrigerator,Home Appliances,2,28359,8279.58,Haryana,Net Banking
+7beac48e,2024-10-02,Customer_117,Refrigerator,Home Appliances,2,30346,1854.13,Rajasthan,Net Banking
+71f7fb8e,2023-12-04,Customer_230,Sofa,Furniture,2,23846,6223.55,West Bengal,Net Banking
+fad97767,2024-12-01,Customer_104,Headphones,Electronics,3,2820,1193.09,Haryana,Credit Card
+faa14bc4,2024-03-16,Customer_75,Chair,Furniture,2,3300,89.51,Haryana,UPI
+ffc12973,2023-07-08,Customer_163,Headphones,Electronics,1,3135,199.82,Gujarat,Cash on Delivery
+c9a3a687,2023-11-07,Customer_227,T-Shirt,Fashion,2,1991,149.67,Maharashtra,Credit Card
+445e792b,2023-01-27,Customer_137,Chair,Furniture,5,4508,1040.95,Bihar,Credit Card
+08dff21f,2024-12-04,Customer_14,Watch,Fashion,1,5818,907.41,Maharashtra,Net Banking
+c3273e1b,2024-09-11,Customer_241,Watch,Fashion,2,6490,1005.85,Punjab,Credit Card
+7cb7d5de,2023-06-17,Customer_99,Shoes,Fashion,1,2673,408.72,Uttar Pradesh,Debit Card
+8b6d7b0e,2024-02-27,Customer_114,Shoes,Fashion,2,1270,89.96,Punjab,Net Banking
+0eb1b33d,2024-05-16,Customer_167,Microwave,Home Appliances,2,11751,1903.04,Uttar Pradesh,Net Banking
+a2b1d96b,2024-01-25,Customer_161,Refrigerator,Home Appliances,5,31846,23644.63,West Bengal,Net Banking
+5c20633d,2024-06-21,Customer_20,Sofa,Furniture,1,24849,2270.7,Uttar Pradesh,Credit Card
+38ce4472,2024-06-15,Customer_276,Refrigerator,Home Appliances,1,30284,2346.39,Uttar Pradesh,Credit Card
+ca1ff0a7,2023-10-26,Customer_226,Refrigerator,Home Appliances,3,31168,15477.17,Punjab,Credit Card
+58433acb,2024-03-08,Customer_151,Chair,Furniture,1,4826,498.98,Maharashtra,Cash on Delivery
+0be1ac84,2024-10-23,Customer_232,Smartphone,Electronics,5,18463,3319.12,West Bengal,Net Banking
+89f91f67,2023-05-19,Customer_202,Refrigerator,Home Appliances,3,29846,446.12,Punjab,Net Banking
+3bdf5976,2024-12-30,Customer_104,Microwave,Home Appliances,1,11024,714.52,Maharashtra,UPI
+06b0bfd2,2023-04-04,Customer_59,Microwave,Home Appliances,3,10349,3252.59,Gujarat,Net Banking
+04634074,2024-09-18,Customer_82,Refrigerator,Home Appliances,5,29558,1297.78,Maharashtra,Debit Card
+c51f2155,2024-08-02,Customer_77,Headphones,Electronics,2,732,225.21,Uttar Pradesh,Cash on Delivery
+41ef667f,2023-11-12,Customer_159,Microwave,Home Appliances,3,12565,1362.27,Maharashtra,Credit Card
+a8ccd508,2023-01-04,Customer_130,Laptop,Electronics,4,55038,37664.09,Haryana,UPI
+88679c63,2024-09-14,Customer_253,Shoes,Fashion,2,3411,899.78,Punjab,Cash on Delivery
+ee636c60,2024-03-28,Customer_41,Chair,Furniture,5,2026,495.79,Haryana,Debit Card
+a3a654d3,2024-09-26,Customer_286,Shoes,Fashion,1,1757,52.1,Madhya Pradesh,UPI
+7ebb28be,2023-05-29,Customer_17,Chair,Furniture,5,3222,1066.84,Delhi,UPI
+fb98b914,2023-04-22,Customer_214,Headphones,Electronics,2,2752,313.05,West Bengal,Net Banking
+1b98b733,2024-07-29,Customer_91,Microwave,Home Appliances,5,11475,10688.73,Delhi,Debit Card
+2e9c0a1c,2023-11-27,Customer_189,Refrigerator,Home Appliances,1,31106,2658.47,Haryana,UPI
+59eac353,2023-10-27,Customer_242,Headphones,Electronics,1,2845,489.0,Madhya Pradesh,Net Banking
+35314442,2024-02-28,Customer_269,Shoes,Fashion,2,3506,81.6,West Bengal,Net Banking
+ea91c10b,2023-03-31,Customer_248,Chair,Furniture,3,3749,1369.54,Madhya Pradesh,Debit Card
+72537003,2024-06-22,Customer_295,Chair,Furniture,3,5797,451.17,West Bengal,Cash on Delivery
+5bf803fb,2024-06-16,Customer_255,Microwave,Home Appliances,2,13619,3319.8,Rajasthan,Credit Card
+8034832e,2023-01-02,Customer_61,Laptop,Electronics,4,55561,35413.81,Bihar,Net Banking
+b7a55843,2024-02-29,Customer_212,Laptop,Electronics,3,54432,18302.72,Bihar,UPI
+f2193707,2024-10-17,Customer_104,T-Shirt,Fashion,3,2036,82.87,Rajasthan,Net Banking
+983cc9af,2024-07-17,Customer_166,Laptop,Electronics,1,55809,3720.04,Gujarat,Net Banking
+77d01bcc,2024-09-22,Customer_15,Headphones,Electronics,2,1353,451.27,Punjab,Cash on Delivery
+7da3ae3c,2023-02-06,Customer_70,Microwave,Home Appliances,2,12569,2315.8,Haryana,Debit Card
+f30e6a69,2024-04-18,Customer_212,Laptop,Electronics,5,54226,30634.58,Madhya Pradesh,Net Banking
+da5e9299,2024-07-02,Customer_10,Shoes,Fashion,5,3807,1262.86,Madhya Pradesh,UPI
+15708f8b,2023-06-02,Customer_144,Laptop,Electronics,3,54536,20500.44,Maharashtra,Net Banking
+4df55631,2024-09-12,Customer_200,Headphones,Electronics,5,478,413.28,Rajasthan,Debit Card
+13d90022,2024-12-27,Customer_17,T-Shirt,Fashion,4,-845,-336.01,Bihar,Debit Card
+e72721c1,2024-04-07,Customer_155,Shoes,Fashion,5,2238,391.68,Madhya Pradesh,UPI
+268a2abe,2023-07-26,Customer_48,Microwave,Home Appliances,5,10102,8071.75,Haryana,Credit Card
+48714c00,2023-07-14,Customer_175,Microwave,Home Appliances,5,11271,8741.03,Maharashtra,UPI
+b695a656,2024-06-12,Customer_68,Shoes,Fashion,1,2881,223.33,Haryana,UPI
+dc6657af,2023-01-05,Customer_160,Laptop,Electronics,5,56571,4925.97,Punjab,UPI
+f7717a0e,2023-04-16,Customer_267,T-Shirt,Fashion,1,1165,176.73,Bihar,Debit Card
+1cfa7a0a,2023-07-25,Customer_99,T-Shirt,Fashion,3,980,187.66,Punjab,UPI
+e22033ca,2023-10-07,Customer_77,Headphones,Electronics,3,468,4.28,West Bengal,Net Banking
+6d885919,2024-06-10,Customer_53,Shoes,Fashion,5,2434,1337.16,Rajasthan,Credit Card
+88bd3af4,2024-12-22,Customer_146,Chair,Furniture,2,2701,76.97,West Bengal,Debit Card
+4973f88e,2024-07-07,Customer_228,Laptop,Electronics,2,53118,10001.81,Uttar Pradesh,UPI
+05fad387,2024-01-28,Customer_28,Smartphone,Electronics,4,19605,2807.17,West Bengal,Net Banking
+7fbda187,2024-10-06,Customer_229,Chair,Furniture,3,3279,653.83,Bihar,Net Banking
+6dc4140e,2023-03-22,Customer_239,Chair,Furniture,2,2380,773.83,Punjab,UPI
+378145f3,2024-04-11,Customer_159,Microwave,Home Appliances,4,10949,8298.89,Maharashtra,Net Banking
+aa5be68a,2023-09-22,Customer_187,Refrigerator,Home Appliances,2,30865,11324.55,Madhya Pradesh,Debit Card
+212789ec,2024-04-09,Customer_250,Laptop,Electronics,1,54946,1240.54,Punjab,Cash on Delivery
+3ed46433,2023-06-24,Customer_145,Watch,Fashion,5,5353,681.94,Delhi,Cash on Delivery
+50356100,2023-04-20,Customer_167,Sofa,Furniture,1,26245,1585.82,Punjab,Cash on Delivery
+9e84096f,2024-08-27,Customer_212,Shoes,Fashion,5,1998,1094.8,Punjab,Cash on Delivery
+9854db1a,2023-03-09,Customer_175,Shoes,Fashion,5,2765,2168.63,Gujarat,Net Banking
+b35481c9,2023-12-17,Customer_279,Shoes,Fashion,2,3714,994.77,West Bengal,Cash on Delivery
+d7c993b5,2023-04-28,Customer_238,Watch,Fashion,5,3399,2794.06,Maharashtra,Debit Card
+102a09df,2024-02-20,Customer_36,Chair,Furniture,1,4807,782.64,Gujarat,Debit Card
+541cea5c,2024-05-21,Customer_32,Smartphone,Electronics,2,21346,1186.13,West Bengal,UPI
+8ee456ae,2023-05-31,Customer_77,Microwave,Home Appliances,5,11193,4365.08,West Bengal,Cash on Delivery
+7710627f,2023-07-20,Customer_106,Watch,Fashion,3,5335,2542.7,Rajasthan,Cash on Delivery
+b9e4d231,2023-12-19,Customer_46,Chair,Furniture,1,4504,888.57,Gujarat,Credit Card
+ab7e4fe5,2023-10-29,Customer_32,Watch,Fashion,5,6964,369.98,Haryana,Debit Card
+66724d5e,2023-04-23,Customer_145,Laptop,Electronics,2,54768,15383.72,Gujarat,Debit Card
+092813c1,2024-12-29,Customer_196,Refrigerator,Home Appliances,4,29782,12987.78,Maharashtra,Cash on Delivery
+1e004b24,2023-05-23,Customer_97,Sofa,Furniture,4,26454,19565.0,Gujarat,Credit Card
+50cc6009,2023-10-23,Customer_65,Headphones,Electronics,1,293,38.0,Maharashtra,Cash on Delivery
+223376a0,2024-11-04,Customer_224,Headphones,Electronics,1,562,72.19,Gujarat,Cash on Delivery
+17e39523,2024-12-13,Customer_218,Chair,Furniture,2,3861,786.74,Haryana,Cash on Delivery
+1811da05,2024-01-29,Customer_182,Shoes,Fashion,2,2739,662.37,West Bengal,Cash on Delivery
+173e2e99,2023-08-31,Customer_257,T-Shirt,Fashion,4,2595,1133.84,Madhya Pradesh,UPI
+d70670df,2023-02-08,Customer_291,Microwave,Home Appliances,3,10463,3642.81,Delhi,Credit Card
+dd02baf5,2024-06-23,Customer_144,Microwave,Home Appliances,5,10320,5401.04,West Bengal,UPI
+c822766e,2023-09-09,Customer_242,Smartphone,Electronics,5,21269,12328.12,West Bengal,UPI
+802ba993,2023-12-18,Customer_274,Laptop,Electronics,4,54859,22499.35,Punjab,Net Banking
+fd737eeb,2023-12-06,Customer_216,Watch,Fashion,3,4184,420.51,West Bengal,Debit Card
+67483f3e,2024-07-31,Customer_134,Laptop,Electronics,4,55368,7489.26,Uttar Pradesh,Debit Card
+8469c8a0,2024-10-01,Customer_14,T-Shirt,Fashion,4,-863,-87.56,Delhi,Debit Card
+4b39d708,2023-09-16,Customer_68,Chair,Furniture,3,3127,1609.51,Uttar Pradesh,UPI
+f38b9d62,2024-09-10,Customer_90,Chair,Furniture,2,4699,839.53,Maharashtra,Debit Card
+1eecd668,2024-12-18,Customer_121,Microwave,Home Appliances,2,13274,2800.22,Uttar Pradesh,Debit Card
+caeffc43,2023-03-28,Customer_75,Chair,Furniture,2,5430,1077.2,Gujarat,Cash on Delivery
+b4a95de4,2023-09-01,Customer_226,Headphones,Electronics,2,2366,695.0,Madhya Pradesh,UPI
+4cac4799,2024-10-19,Customer_136,Smartphone,Electronics,1,18686,1734.12,Punjab,Debit Card
+2c6eb6f6,2024-05-02,Customer_273,Shoes,Fashion,4,3799,2144.48,Punjab,Debit Card
+98d84334,2023-05-29,Customer_272,Refrigerator,Home Appliances,1,29182,5411.64,Punjab,Cash on Delivery
+1a3dce5d,2024-11-25,Customer_162,Sofa,Furniture,1,23398,4294.53,Madhya Pradesh,Cash on Delivery
+cb093cc3,2024-09-17,Customer_140,Watch,Fashion,3,4093,1970.33,Rajasthan,Net Banking
+bd035c1e,2024-02-05,Customer_237,Shoes,Fashion,5,4155,809.92,Madhya Pradesh,Credit Card
+89fc71b8,2023-11-17,Customer_281,Laptop,Electronics,1,56406,766.58,Gujarat,UPI
+b2c48df0,2024-06-21,Customer_54,Microwave,Home Appliances,3,10898,4742.27,Rajasthan,Credit Card
+5f171fc0,2023-02-04,Customer_13,Chair,Furniture,1,2232,418.95,Bihar,Net Banking
+9a4a0b0e,2024-10-15,Customer_63,Smartphone,Electronics,1,21507,2601.0,Gujarat,Net Banking
+8deca96e,2023-07-09,Customer_57,Headphones,Electronics,3,1206,337.89,Delhi,Cash on Delivery
+99812226,2023-10-11,Customer_219,Watch,Fashion,3,3663,1715.89,Rajasthan,UPI
+1d3b0348,2024-01-27,Customer_199,Watch,Fashion,1,4057,775.38,Rajasthan,Credit Card
+f59afba5,2024-03-27,Customer_36,Microwave,Home Appliances,2,12499,1963.02,Punjab,UPI
+f235b418,2023-05-28,Customer_277,Refrigerator,Home Appliances,2,30514,7852.33,Punjab,Debit Card
+f42e890d,2023-04-16,Customer_18,Smartphone,Electronics,1,20340,2959.65,Punjab,UPI
+66690990,2024-05-24,Customer_77,Laptop,Electronics,1,55722,4351.71,Maharashtra,Debit Card
+f4b88076,2024-02-05,Customer_295,Laptop,Electronics,5,55898,52539.15,Punjab,Cash on Delivery
+db815ddd,2024-03-22,Customer_207,Smartphone,Electronics,5,18925,62.59,Punjab,UPI
+8a9a6c7c,2024-08-03,Customer_275,Watch,Fashion,3,5792,1052.39,Uttar Pradesh,UPI
+e904ea11,2024-01-10,Customer_274,Watch,Fashion,1,6445,592.48,Rajasthan,Credit Card
+6dc39e9d,2023-06-30,Customer_284,Laptop,Electronics,4,55706,8512.02,Gujarat,UPI
+5d382115,2024-10-07,Customer_184,Microwave,Home Appliances,1,13625,1724.36,Bihar,Credit Card
+c5f0a735,2023-02-06,Customer_99,Laptop,Electronics,5,53976,26406.82,Delhi,Net Banking
+337b617e,2024-10-20,Customer_158,Microwave,Home Appliances,5,13952,11639.46,Punjab,UPI
+d42418ee,2023-02-07,Customer_174,Laptop,Electronics,3,56226,24323.77,Gujarat,UPI
+3fc95aea,2023-08-05,Customer_268,Microwave,Home Appliances,5,10610,7862.56,Bihar,UPI
+487bf882,2023-02-07,Customer_73,Microwave,Home Appliances,1,11930,2164.53,West Bengal,UPI
+9ca33c71,2023-09-06,Customer_67,Laptop,Electronics,2,55591,1110.89,Rajasthan,UPI
+e7065612,2024-04-12,Customer_88,Chair,Furniture,1,5349,874.53,Delhi,Cash on Delivery
+65c8436b,2024-09-01,Customer_113,Smartphone,Electronics,2,19745,2664.34,Gujarat,Debit Card
+019d03bd,2023-05-04,Customer_295,Sofa,Furniture,2,24317,8135.76,Bihar,UPI
+3b61a113,2024-08-30,Customer_89,Watch,Fashion,1,3494,191.4,Gujarat,Credit Card
+4bb5dc8e,2024-12-14,Customer_190,Sofa,Furniture,2,24796,2416.56,West Bengal,UPI
+daa7637f,2023-05-17,Customer_52,Chair,Furniture,4,5185,654.36,Punjab,UPI
+5d6124b7,2023-01-07,Customer_4,Headphones,Electronics,1,2894,377.24,Rajasthan,Cash on Delivery
+cbbfcd6f,2024-12-11,Customer_244,Headphones,Electronics,2,586,149.98,Haryana,Cash on Delivery
+973d96db,2024-02-26,Customer_123,Headphones,Electronics,5,2833,106.58,Maharashtra,Cash on Delivery
+a2ecad46,2024-09-18,Customer_46,T-Shirt,Fashion,3,515,1.41,Bihar,Credit Card
+4c31e93e,2023-05-01,Customer_272,Smartphone,Electronics,5,19482,16807.73,Haryana,Net Banking
+70b9dc06,2023-08-13,Customer_238,Shoes,Fashion,3,1217,141.45,Maharashtra,Cash on Delivery
+d41774dd,2024-05-24,Customer_91,Headphones,Electronics,1,221,28.5,Rajasthan,Credit Card
+1f06881f,2024-03-21,Customer_129,Watch,Fashion,5,6297,5604.83,Punjab,UPI
+fc95eba7,2023-04-17,Customer_27,Sofa,Furniture,2,23647,7429.81,Punjab,Net Banking
+5b41cbe2,2023-04-29,Customer_37,Shoes,Fashion,4,3427,1589.47,Gujarat,Credit Card
+04582d02,2024-11-24,Customer_167,Shoes,Fashion,1,2335,106.37,Bihar,Cash on Delivery
+3b18ae0d,2023-07-24,Customer_193,Shoes,Fashion,1,2929,342.75,Uttar Pradesh,Cash on Delivery
+a2aa2f19,2023-05-29,Customer_111,Chair,Furniture,4,2729,845.62,Maharashtra,Cash on Delivery
+714fb8ec,2023-07-18,Customer_184,T-Shirt,Fashion,2,175,8.9,West Bengal,UPI
+d5cc0b1b,2023-10-15,Customer_70,Smartphone,Electronics,4,19878,6650.76,Madhya Pradesh,Credit Card
+fd51899d,2023-10-30,Customer_81,Chair,Furniture,2,4367,1694.63,Bihar,UPI
+08ab58a4,2024-02-26,Customer_268,Microwave,Home Appliances,2,12423,2352.86,Punjab,Debit Card
+a100e770,2023-01-15,Customer_220,Shoes,Fashion,2,2340,406.46,Bihar,Net Banking
+55c2208e,2023-06-02,Customer_294,Laptop,Electronics,4,53181,1704.29,Punjab,Net Banking
+943da472,2023-02-04,Customer_218,Sofa,Furniture,4,24963,16170.36,Delhi,Cash on Delivery
+e0c3bac9,2024-05-22,Customer_124,Smartphone,Electronics,5,21084,261.93,Gujarat,Credit Card
+030168c9,2023-05-16,Customer_184,T-Shirt,Fashion,2,1452,580.19,Uttar Pradesh,Cash on Delivery
+4676c64f,2024-11-16,Customer_157,Headphones,Electronics,4,3514,1603.45,West Bengal,UPI
+8262dd06,2024-04-10,Customer_238,Headphones,Electronics,4,757,478.34,Madhya Pradesh,Cash on Delivery
+be731bcb,2024-12-21,Customer_1,Smartphone,Electronics,4,21659,11968.77,Haryana,UPI
+348d3275,2023-10-31,Customer_219,T-Shirt,Fashion,5,1021,587.31,Bihar,UPI
+e2909e1e,2024-09-27,Customer_172,Laptop,Electronics,5,56872,51753.75,Madhya Pradesh,UPI
+b28497c9,2023-04-24,Customer_197,Watch,Fashion,4,5535,180.99,Madhya Pradesh,Credit Card
+06600738,2024-10-25,Customer_287,Smartphone,Electronics,5,20905,16171.6,Maharashtra,Debit Card
+ac84a70b,2023-09-02,Customer_277,Smartphone,Electronics,4,21020,15792.71,West Bengal,Credit Card
+a8faac06,2023-08-19,Customer_165,Watch,Fashion,3,5062,2065.98,Rajasthan,UPI
+2241b3bd,2023-03-06,Customer_191,Watch,Fashion,4,4991,2002.19,Delhi,Cash on Delivery
+24736810,2024-12-27,Customer_273,Sofa,Furniture,3,24851,9258.76,Delhi,Credit Card
+2796cad7,2024-04-13,Customer_45,Smartphone,Electronics,4,21677,3100.88,Delhi,UPI
+271e7acb,2023-06-18,Customer_142,Smartphone,Electronics,2,20032,1205.91,Bihar,Net Banking
+861acb1d,2024-10-04,Customer_12,T-Shirt,Fashion,4,2771,1512.75,Maharashtra,Cash on Delivery
+7362ef02,2023-12-22,Customer_216,Microwave,Home Appliances,1,11194,423.27,Uttar Pradesh,Credit Card
+85d36bce,2024-06-16,Customer_172,Refrigerator,Home Appliances,5,29404,19281.98,Madhya Pradesh,Cash on Delivery
+fe8bee25,2024-08-30,Customer_272,Sofa,Furniture,4,24875,6051.24,Maharashtra,Debit Card
+1a554afb,2023-06-25,Customer_134,Shoes,Fashion,4,2523,1959.31,Uttar Pradesh,Credit Card
+1fda744b,2023-12-28,Customer_146,Microwave,Home Appliances,2,12533,4632.86,Haryana,Debit Card
+da994d63,2023-07-06,Customer_90,Headphones,Electronics,2,974,45.55,Madhya Pradesh,Net Banking
+a2bf972b,2023-05-10,Customer_226,T-Shirt,Fashion,3,-445,-54.78,Uttar Pradesh,Debit Card
+c7f6a74f,2023-12-19,Customer_76,Watch,Fashion,4,5211,4066.52,Haryana,Debit Card
+cec5f3eb,2023-05-05,Customer_13,Refrigerator,Home Appliances,4,31147,3622.62,Punjab,Debit Card
+c8810b22,2023-06-09,Customer_3,Sofa,Furniture,5,24356,15764.27,Rajasthan,Cash on Delivery
+a81f5b9e,2023-10-24,Customer_294,Headphones,Electronics,5,2984,2706.13,Punjab,Debit Card
+cee08013,2024-12-06,Customer_58,Microwave,Home Appliances,1,10571,1433.45,Delhi,Debit Card
+b708a765,2023-01-26,Customer_206,Chair,Furniture,2,3826,546.96,Madhya Pradesh,UPI
+e976e8f4,2024-09-14,Customer_100,Chair,Furniture,5,2909,2272.75,Rajasthan,Credit Card
+004f5858,2023-01-24,Customer_43,Sofa,Furniture,4,25773,13846.45,Delhi,Net Banking
+ecf4fcea,2024-02-08,Customer_100,Microwave,Home Appliances,3,12470,4527.19,Uttar Pradesh,Debit Card
+67ae7d7e,2024-02-12,Customer_76,Refrigerator,Home Appliances,3,29581,6617.23,Rajasthan,Debit Card
+71c63f00,2023-12-26,Customer_158,Microwave,Home Appliances,5,10358,2234.17,Punjab,Cash on Delivery
+f3d6a1ce,2024-03-29,Customer_148,Headphones,Electronics,4,2984,2139.95,Maharashtra,Net Banking
+5850391e,2024-09-04,Customer_45,Headphones,Electronics,2,1242,235.79,Haryana,Debit Card
+4a53a865,2023-03-09,Customer_193,Smartphone,Electronics,1,19677,2513.96,Rajasthan,Cash on Delivery
+47a7a98d,2023-06-29,Customer_285,Microwave,Home Appliances,5,13093,11978.42,Bihar,Credit Card
+ba41bd37,2024-01-26,Customer_149,Sofa,Furniture,4,23172,15252.72,Rajasthan,Net Banking
+8fd5ae88,2023-11-08,Customer_253,Sofa,Furniture,4,23919,513.59,Uttar Pradesh,Credit Card
+a5005842,2023-09-26,Customer_154,Microwave,Home Appliances,1,12678,1688.49,Rajasthan,Cash on Delivery
+cd033936,2023-07-03,Customer_252,Shoes,Fashion,1,1488,227.58,Punjab,UPI
+344c36d5,2024-09-05,Customer_186,Chair,Furniture,4,4316,1505.66,Rajasthan,Cash on Delivery
+aaade245,2024-12-11,Customer_62,Watch,Fashion,5,6002,3452.73,Rajasthan,Credit Card
+9a7a7f13,2024-08-18,Customer_30,Headphones,Electronics,3,1888,994.96,Maharashtra,Debit Card
+8c065665,2023-06-17,Customer_28,T-Shirt,Fashion,3,518,197.75,Madhya Pradesh,UPI
+a4aadb0f,2023-10-24,Customer_150,Sofa,Furniture,1,25104,973.11,Maharashtra,UPI
+31778e69,2024-09-05,Customer_86,Sofa,Furniture,3,26573,5041.6,Rajasthan,Debit Card
+5d3c6038,2024-12-02,Customer_186,Smartphone,Electronics,5,20375,7164.45,Maharashtra,UPI
+ef8ab6ff,2023-05-21,Customer_266,T-Shirt,Fashion,3,1989,578.68,Madhya Pradesh,Credit Card
+808f468f,2023-04-15,Customer_112,Headphones,Electronics,5,905,752.57,Haryana,Net Banking
+90f7916b,2024-12-07,Customer_270,Sofa,Furniture,5,25876,19570.19,Delhi,Cash on Delivery
+ffd710da,2024-04-16,Customer_40,Smartphone,Electronics,2,21782,151.42,Madhya Pradesh,Debit Card
+465b1aa6,2024-12-08,Customer_186,Headphones,Electronics,4,3644,2879.0,Haryana,Debit Card
+db2d98e6,2023-06-26,Customer_156,Laptop,Electronics,1,53910,1387.8,Maharashtra,Credit Card
+6e48f80c,2023-11-11,Customer_65,Shoes,Fashion,2,1321,224.47,Delhi,UPI
+44a8d3dc,2023-01-20,Customer_248,Refrigerator,Home Appliances,1,28804,621.11,Haryana,Net Banking
+e9b9a2fd,2023-03-02,Customer_241,Smartphone,Electronics,3,18177,722.51,Uttar Pradesh,UPI
+d98e0a04,2023-05-07,Customer_106,Chair,Furniture,2,2756,739.27,Uttar Pradesh,UPI
+c29d3c0e,2023-05-30,Customer_143,Chair,Furniture,3,3442,331.58,Haryana,Net Banking
+642e84d4,2023-09-05,Customer_259,Chair,Furniture,1,2405,394.22,Uttar Pradesh,Net Banking
+11fb7e49,2023-08-11,Customer_99,T-Shirt,Fashion,2,2493,751.91,Uttar Pradesh,UPI
+1f7c16db,2023-08-08,Customer_259,Microwave,Home Appliances,3,12859,4547.31,Punjab,UPI
+3c62cbac,2023-07-05,Customer_182,Refrigerator,Home Appliances,4,28877,11880.02,Gujarat,UPI
+9ad0a682,2023-11-18,Customer_64,Microwave,Home Appliances,1,12128,329.67,Madhya Pradesh,Debit Card
+6437263a,2024-07-24,Customer_21,Smartphone,Electronics,3,20022,1390.2,Rajasthan,Cash on Delivery
+372d2701,2024-09-06,Customer_160,Microwave,Home Appliances,2,12268,1998.62,Gujarat,Credit Card
+8e2f6a34,2023-03-13,Customer_244,Watch,Fashion,2,3052,1219.24,Punjab,UPI
+5651812e,2024-02-10,Customer_225,Sofa,Furniture,1,23488,673.48,Gujarat,Net Banking
+9f81229a,2023-04-15,Customer_87,Smartphone,Electronics,3,21994,2627.22,Bihar,Net Banking
+66ae4d24,2024-02-18,Customer_63,Shoes,Fashion,4,3970,1585.17,West Bengal,Net Banking
+51967552,2023-10-07,Customer_205,Watch,Fashion,4,5730,2764.91,Gujarat,Cash on Delivery
+b2bc19bf,2024-06-07,Customer_143,Headphones,Electronics,4,442,43.21,Punjab,Cash on Delivery
+b04241dd,2023-08-25,Customer_69,Laptop,Electronics,1,56022,592.18,Delhi,Cash on Delivery
+fa48e37f,2024-11-25,Customer_14,Headphones,Electronics,4,2476,1345.37,Maharashtra,Debit Card
+ee77b7fa,2024-09-28,Customer_50,Smartphone,Electronics,5,21143,10406.32,Punjab,Credit Card
+dc183cfc,2023-10-28,Customer_255,Microwave,Home Appliances,5,11071,6005.33,Haryana,Net Banking
+245ce8fd,2023-01-19,Customer_17,Refrigerator,Home Appliances,1,29571,2662.07,Gujarat,Cash on Delivery
+712f4796,2024-04-15,Customer_19,Laptop,Electronics,2,55280,14580.9,Rajasthan,Credit Card
+cd3eb339,2024-05-18,Customer_221,Headphones,Electronics,3,2931,684.24,Delhi,Net Banking
+f8de7f70,2024-11-22,Customer_252,Sofa,Furniture,5,25343,11906.61,Haryana,Credit Card
+6f64b985,2024-06-02,Customer_29,Refrigerator,Home Appliances,3,30026,10648.03,Gujarat,Net Banking
+9228bf35,2024-11-23,Customer_181,T-Shirt,Fashion,3,-949,-16.03,Uttar Pradesh,Credit Card
+e0e4bd3c,2024-01-11,Customer_179,Chair,Furniture,1,5134,915.23,Madhya Pradesh,Cash on Delivery
+f03e7009,2023-04-10,Customer_220,Watch,Fashion,3,4687,987.84,Bihar,Credit Card
+681576c8,2023-08-29,Customer_160,Chair,Furniture,1,5728,788.16,Rajasthan,UPI
+43b5d2ae,2023-12-12,Customer_87,Laptop,Electronics,5,54335,2030.91,Gujarat,Net Banking
+8f4e2ef1,2024-06-11,Customer_216,T-Shirt,Fashion,1,1650,155.0,Uttar Pradesh,Debit Card
+4b0d29cf,2024-01-22,Customer_293,Refrigerator,Home Appliances,3,30345,1779.29,Punjab,UPI
+04cfec47,2024-12-08,Customer_106,Watch,Fashion,4,5059,3284.13,Madhya Pradesh,Credit Card
+95edca89,2024-09-21,Customer_154,Watch,Fashion,4,3826,1521.07,Delhi,Net Banking
+684aeaba,2023-08-08,Customer_148,T-Shirt,Fashion,1,17,3.39,Gujarat,Credit Card
+9f047c8b,2024-10-01,Customer_48,Chair,Furniture,1,4424,298.03,Delhi,Net Banking
+e25b9cab,2024-06-27,Customer_244,Refrigerator,Home Appliances,2,29422,9363.87,Rajasthan,Net Banking
+e6ac12ed,2023-11-04,Customer_222,Sofa,Furniture,3,23819,5921.13,Rajasthan,Net Banking
+193720a9,2024-06-11,Customer_233,Sofa,Furniture,2,26608,198.0,Haryana,Credit Card
+a6eca12a,2024-08-13,Customer_256,Shoes,Fashion,4,2097,1572.18,Haryana,Net Banking
+70e84b62,2024-03-20,Customer_290,Laptop,Electronics,5,53821,19605.63,Maharashtra,Credit Card
+5463b5cb,2023-06-04,Customer_154,Refrigerator,Home Appliances,4,29305,20166.2,Delhi,Credit Card
+a450df2b,2024-02-27,Customer_137,T-Shirt,Fashion,2,-150,-41.21,Bihar,Cash on Delivery
+75f71778,2023-09-02,Customer_59,Headphones,Electronics,2,113,11.1,Rajasthan,Cash on Delivery
+6aeb887a,2024-05-12,Customer_287,Refrigerator,Home Appliances,4,30649,22205.95,Bihar,Credit Card
+3ce07d30,2023-10-07,Customer_70,Laptop,Electronics,3,56234,27111.7,Haryana,Credit Card
+aef1cea5,2024-10-21,Customer_22,Microwave,Home Appliances,1,10226,1758.02,Delhi,Debit Card
+54623f1f,2024-09-08,Customer_153,Smartphone,Electronics,4,21673,6301.37,Delhi,Cash on Delivery
+7c7097e4,2023-05-24,Customer_121,Smartphone,Electronics,5,21008,10509.22,Delhi,Net Banking
+50c06da4,2024-11-11,Customer_298,Sofa,Furniture,3,25033,13285.99,Bihar,Net Banking
+17ce2ca0,2023-05-06,Customer_161,Watch,Fashion,5,6019,2347.11,Bihar,Cash on Delivery
+12f94171,2023-08-12,Customer_74,Smartphone,Electronics,2,18876,7323.31,Punjab,Cash on Delivery
+623500b1,2023-09-18,Customer_29,Microwave,Home Appliances,5,11534,8069.39,Delhi,Debit Card
+c318b519,2024-07-12,Customer_217,Microwave,Home Appliances,2,13945,1549.2,Maharashtra,Debit Card
+c4ed5c0b,2024-05-01,Customer_189,T-Shirt,Fashion,1,1443,279.02,West Bengal,UPI
+99c9bf08,2024-11-09,Customer_28,Shoes,Fashion,3,3263,753.15,Madhya Pradesh,UPI
+9bad94be,2024-07-01,Customer_122,Microwave,Home Appliances,4,10032,7301.6,Gujarat,Debit Card
+48ca39b4,2023-11-05,Customer_47,Shoes,Fashion,3,1861,959.62,Maharashtra,Cash on Delivery
+5d5e37ec,2024-10-08,Customer_163,Refrigerator,Home Appliances,1,29122,5046.52,Punjab,Cash on Delivery
+feb1b63b,2024-02-27,Customer_171,Refrigerator,Home Appliances,1,31376,1006.19,Rajasthan,Net Banking
+a18263f2,2023-03-09,Customer_181,Refrigerator,Home Appliances,5,30986,25204.88,Madhya Pradesh,Cash on Delivery
+095d11bf,2024-12-12,Customer_15,Laptop,Electronics,2,55581,9857.96,Maharashtra,UPI
+c51938f9,2024-02-15,Customer_103,T-Shirt,Fashion,3,1158,57.13,Maharashtra,Credit Card
+8f80ccff,2024-06-12,Customer_67,Chair,Furniture,4,5246,3942.55,Punjab,Cash on Delivery
+536ff08f,2023-05-17,Customer_134,Headphones,Electronics,5,3386,1109.19,Rajasthan,Credit Card
+c07b7606,2023-03-28,Customer_213,Watch,Fashion,2,4611,1616.41,West Bengal,Credit Card
+64f8c4b6,2023-01-22,Customer_12,Sofa,Furniture,5,25566,5847.13,Delhi,Cash on Delivery
+bf470733,2023-07-23,Customer_135,Headphones,Electronics,1,1642,202.95,West Bengal,Debit Card
+53e5030a,2023-06-02,Customer_46,Watch,Fashion,2,6879,1560.83,Uttar Pradesh,Net Banking
+613f546b,2024-03-21,Customer_233,Microwave,Home Appliances,1,10919,1558.28,Bihar,Debit Card
+5d8ecf2a,2023-10-22,Customer_254,Refrigerator,Home Appliances,2,29766,10195.9,West Bengal,Credit Card
+d4daa8e2,2023-10-17,Customer_97,Refrigerator,Home Appliances,2,29673,9405.91,Uttar Pradesh,Debit Card
+dfba0f49,2023-09-26,Customer_121,Chair,Furniture,4,5716,1135.51,West Bengal,Cash on Delivery
+a9129822,2023-03-29,Customer_6,Microwave,Home Appliances,2,13569,1754.45,Gujarat,Credit Card
+518259f1,2024-12-31,Customer_197,Refrigerator,Home Appliances,5,29049,2122.19,Haryana,UPI
+8d045398,2023-02-23,Customer_171,Shoes,Fashion,4,4720,1337.84,West Bengal,Net Banking
+25a58ce7,2024-12-27,Customer_24,Laptop,Electronics,3,55066,20473.25,Rajasthan,Cash on Delivery
+f6877975,2024-11-18,Customer_190,Headphones,Electronics,5,168,97.52,Rajasthan,Credit Card
+ec27a6cd,2024-05-30,Customer_253,Watch,Fashion,4,3540,253.88,Haryana,Cash on Delivery
+0ee9345e,2023-05-26,Customer_134,Smartphone,Electronics,3,18180,10673.66,Punjab,Debit Card
+055d33bb,2024-01-05,Customer_221,T-Shirt,Fashion,3,1310,652.06,Rajasthan,Net Banking
+c759fdff,2023-11-17,Customer_224,Headphones,Electronics,3,3018,1800.96,Maharashtra,Net Banking
+98f5d101,2024-11-04,Customer_226,Laptop,Electronics,2,53608,1170.09,Maharashtra,UPI
+b46ec97b,2024-04-26,Customer_134,Headphones,Electronics,4,1787,165.87,Punjab,UPI
+5b822b47,2024-03-28,Customer_183,Sofa,Furniture,4,24874,9810.08,Maharashtra,UPI
+1b5389a5,2023-12-24,Customer_48,Shoes,Fashion,3,1739,871.19,Haryana,Debit Card
+d0e0bc64,2024-07-30,Customer_300,Shoes,Fashion,5,4979,20.54,West Bengal,Credit Card
+d3174633,2024-03-02,Customer_40,Shoes,Fashion,4,3772,284.58,Madhya Pradesh,UPI
+adf308c7,2023-10-19,Customer_63,Refrigerator,Home Appliances,3,30418,16957.7,Delhi,Debit Card
+1ef51746,2023-06-07,Customer_15,Smartphone,Electronics,4,21402,12117.07,Punjab,Cash on Delivery
+b0346571,2024-10-05,Customer_138,Chair,Furniture,1,3349,649.55,West Bengal,Cash on Delivery
+def9fff6,2023-11-29,Customer_292,Headphones,Electronics,2,3535,68.84,Rajasthan,Debit Card
+07f8dad4,2023-02-26,Customer_37,Sofa,Furniture,5,24562,2273.24,Rajasthan,Credit Card
+ed19faea,2023-09-03,Customer_205,Smartphone,Electronics,1,21491,894.98,Gujarat,Cash on Delivery
+38457ef3,2023-10-19,Customer_79,Smartphone,Electronics,3,20010,9618.01,Rajasthan,Net Banking
+2e2b2f0f,2023-05-15,Customer_184,Smartphone,Electronics,3,20099,2410.33,Punjab,Cash on Delivery
+04fb2161,2024-05-02,Customer_138,Chair,Furniture,5,3732,336.71,Gujarat,Debit Card
+283db2fc,2024-09-20,Customer_96,Refrigerator,Home Appliances,4,28380,918.11,Madhya Pradesh,Cash on Delivery
+2a78d89b,2024-11-23,Customer_115,Headphones,Electronics,4,2159,1087.38,Haryana,UPI
+597a20f0,2023-10-25,Customer_240,Refrigerator,Home Appliances,1,31715,5084.2,Rajasthan,Credit Card
+ab656696,2023-05-11,Customer_154,Shoes,Fashion,5,2751,812.87,Uttar Pradesh,Net Banking
+448b41e9,2023-03-20,Customer_24,Sofa,Furniture,1,25091,2132.3,Delhi,Cash on Delivery
+9ab51be1,2024-11-07,Customer_292,T-Shirt,Fashion,3,-157,-55.16,Haryana,UPI
+a010d2af,2023-04-27,Customer_237,Headphones,Electronics,2,3452,542.6,Delhi,Cash on Delivery
+af91a22f,2024-12-22,Customer_153,Watch,Fashion,5,5965,2714.06,Punjab,Net Banking
+945c1b89,2023-09-29,Customer_175,Headphones,Electronics,2,758,23.72,West Bengal,Debit Card
+42a06fd3,2024-11-20,Customer_55,Refrigerator,Home Appliances,5,28073,164.14,Delhi,UPI
+19542afe,2023-06-25,Customer_245,Microwave,Home Appliances,4,13558,7133.86,West Bengal,Cash on Delivery
+b7edf7c5,2023-11-07,Customer_185,Refrigerator,Home Appliances,3,28358,2128.37,Uttar Pradesh,Credit Card
+40c9471f,2023-04-25,Customer_9,Shoes,Fashion,1,1857,178.69,Maharashtra,Credit Card
+53b4d1d5,2024-03-22,Customer_276,Shoes,Fashion,1,2232,343.6,Maharashtra,Cash on Delivery
+8c700d94,2024-03-08,Customer_12,Smartphone,Electronics,2,21696,1322.78,Punjab,Cash on Delivery
+eeda566a,2024-04-27,Customer_11,Microwave,Home Appliances,5,10993,2213.31,West Bengal,Cash on Delivery
+001f0de3,2023-02-22,Customer_171,Laptop,Electronics,1,55582,9422.59,Gujarat,Cash on Delivery
+4a5d1d3f,2024-05-22,Customer_297,Chair,Furniture,5,3191,118.12,Gujarat,Cash on Delivery
+dd98d49b,2024-06-09,Customer_250,Shoes,Fashion,1,3163,12.03,West Bengal,Debit Card
+4b9eae3c,2024-07-20,Customer_33,T-Shirt,Fashion,4,2441,924.33,Punjab,Net Banking
+18d11e88,2024-10-23,Customer_178,Microwave,Home Appliances,4,10085,1301.64,Bihar,Cash on Delivery
+5d827366,2023-12-19,Customer_225,Shoes,Fashion,5,1899,1115.96,Madhya Pradesh,Net Banking
+066db096,2024-11-03,Customer_240,Headphones,Electronics,3,2961,1263.85,Gujarat,Debit Card
+4c3881b8,2024-04-28,Customer_83,Chair,Furniture,2,3156,871.94,Delhi,Cash on Delivery
+41bbd60f,2023-05-13,Customer_89,Shoes,Fashion,2,3481,685.32,Gujarat,Cash on Delivery
+548390bb,2023-11-07,Customer_121,Shoes,Fashion,5,1192,1191.12,Madhya Pradesh,Debit Card
+cd790d55,2024-01-01,Customer_82,Headphones,Electronics,5,130,104.89,Madhya Pradesh,Cash on Delivery
+b3626683,2023-04-27,Customer_117,Smartphone,Electronics,5,18917,9200.57,Madhya Pradesh,Debit Card
+008e6a05,2023-02-17,Customer_286,T-Shirt,Fashion,2,2295,633.54,Haryana,Net Banking
+3bf1340f,2024-11-16,Customer_54,Laptop,Electronics,4,56272,20579.15,Delhi,UPI
+76d99ab7,2024-09-17,Customer_53,Sofa,Furniture,1,25077,528.68,Delhi,Credit Card
+68c4e929,2024-01-06,Customer_81,T-Shirt,Fashion,4,1921,777.46,Delhi,Credit Card
+4efa5a72,2024-10-24,Customer_187,Watch,Fashion,2,3503,1189.05,Punjab,Cash on Delivery
+36d42b3f,2023-01-07,Customer_126,Microwave,Home Appliances,3,11174,3385.87,Delhi,Debit Card
+9effe7dc,2024-01-17,Customer_213,Watch,Fashion,2,3620,1090.64,Haryana,Cash on Delivery
+f899022d,2023-08-22,Customer_71,Refrigerator,Home Appliances,4,31760,10399.73,Punjab,Net Banking
+1ac076d0,2024-11-29,Customer_186,Laptop,Electronics,4,53596,33021.65,Haryana,UPI
+0e705655,2023-03-28,Customer_174,Watch,Fashion,4,6163,810.19,Uttar Pradesh,Cash on Delivery
+06c086d3,2023-02-07,Customer_78,Chair,Furniture,1,4587,899.1,Haryana,Debit Card
+88da66e0,2024-03-05,Customer_206,Sofa,Furniture,3,25955,11566.03,Madhya Pradesh,UPI
+bdea871b,2023-10-14,Customer_271,Chair,Furniture,2,4868,786.55,Bihar,Net Banking
+044782ed,2024-10-01,Customer_227,Watch,Fashion,4,6176,974.8,Rajasthan,UPI
+21daf3bf,2023-02-07,Customer_276,Watch,Fashion,4,5970,3433.37,Maharashtra,Net Banking
+4062b55a,2024-07-07,Customer_146,Shoes,Fashion,1,3095,341.56,Haryana,Debit Card
+821511fa,2024-10-12,Customer_82,Laptop,Electronics,1,56646,9024.83,West Bengal,Debit Card
+3fc6da30,2023-09-05,Customer_156,Refrigerator,Home Appliances,5,28452,20826.47,Madhya Pradesh,Debit Card
+88c10a29,2024-10-04,Customer_260,Watch,Fashion,1,3195,483.44,Delhi,Cash on Delivery
+f46ce647,2023-11-02,Customer_294,Laptop,Electronics,4,54388,42768.57,West Bengal,Net Banking
+83a95e58,2024-10-04,Customer_274,Chair,Furniture,2,3434,410.98,West Bengal,Credit Card
+f600fbff,2024-01-22,Customer_267,Shoes,Fashion,1,2342,241.91,Bihar,Debit Card
+526e6b40,2024-04-10,Customer_51,Headphones,Electronics,4,3393,1118.48,Delhi,UPI
+7c8e273a,2024-03-11,Customer_67,Microwave,Home Appliances,2,11827,369.35,Haryana,Cash on Delivery
+3db41b30,2024-08-25,Customer_287,Sofa,Furniture,4,26571,5605.28,Punjab,Cash on Delivery
+081eedef,2024-03-26,Customer_251,Refrigerator,Home Appliances,2,28591,5784.37,Punjab,Cash on Delivery
+b3f159b5,2023-05-13,Customer_263,Sofa,Furniture,1,25844,1099.11,Punjab,UPI
+8c54773c,2023-06-10,Customer_287,Watch,Fashion,1,5464,931.41,Delhi,UPI
+36faf8b1,2024-01-14,Customer_293,T-Shirt,Fashion,1,941,28.85,Madhya Pradesh,Debit Card
+a6ec4c55,2024-01-19,Customer_156,T-Shirt,Fashion,4,-1086,-687.4,Maharashtra,Net Banking
+0c5bb0f3,2024-03-07,Customer_25,T-Shirt,Fashion,3,-317,-34.82,Punjab,UPI
+e42c7f3d,2023-05-06,Customer_281,Watch,Fashion,1,6565,58.67,Punjab,Net Banking
+e3844d98,2023-11-14,Customer_290,Microwave,Home Appliances,3,13200,2988.26,West Bengal,Credit Card
+c8023247,2023-05-22,Customer_259,Microwave,Home Appliances,4,12732,4574.1,Madhya Pradesh,UPI
+5191c86a,2024-10-01,Customer_210,Refrigerator,Home Appliances,2,31687,5011.58,Haryana,UPI
+2397af5e,2024-11-17,Customer_227,T-Shirt,Fashion,1,2346,77.71,Uttar Pradesh,Net Banking
+8fb2f95e,2024-10-07,Customer_159,Sofa,Furniture,1,25637,2868.03,Bihar,Net Banking
+87b5b471,2024-07-08,Customer_296,Laptop,Electronics,5,55137,10442.72,Punjab,Net Banking
+ebb960f2,2023-01-20,Customer_62,Sofa,Furniture,2,26941,204.47,Bihar,Credit Card
+e8e2a2f5,2024-12-23,Customer_297,Microwave,Home Appliances,1,13305,1419.76,Madhya Pradesh,Cash on Delivery
+5c9524ad,2024-08-26,Customer_24,Microwave,Home Appliances,1,11392,995.7,Gujarat,UPI
+7b1cba65,2024-06-24,Customer_163,Refrigerator,Home Appliances,3,28372,1951.62,Delhi,Net Banking
+afa8dfd2,2023-06-22,Customer_147,Headphones,Electronics,2,1046,321.46,Maharashtra,Debit Card
+e8bce632,2024-02-22,Customer_87,Laptop,Electronics,5,56936,18520.75,Uttar Pradesh,UPI
+ccf9788f,2023-11-02,Customer_200,Smartphone,Electronics,3,18583,4602.89,Madhya Pradesh,Debit Card
+60c00554,2024-01-20,Customer_62,Laptop,Electronics,2,53981,16240.37,West Bengal,Credit Card
+ea9fc6f9,2024-05-19,Customer_261,Sofa,Furniture,4,26888,2475.45,Uttar Pradesh,Debit Card
+43f18fc4,2024-04-20,Customer_284,Refrigerator,Home Appliances,1,29983,173.34,Bihar,UPI
+9e734e02,2023-10-03,Customer_284,Chair,Furniture,1,3008,459.01,Maharashtra,Debit Card
+c1726859,2024-08-04,Customer_209,Microwave,Home Appliances,1,13466,1712.33,Bihar,Credit Card
+f3e91258,2024-01-18,Customer_277,Headphones,Electronics,2,2201,838.68,Haryana,Cash on Delivery
+324cc225,2023-02-12,Customer_1,Microwave,Home Appliances,5,11184,7303.81,Maharashtra,UPI
+2a0de859,2023-03-03,Customer_247,T-Shirt,Fashion,5,-173,-145.23,Gujarat,Debit Card
+571375f1,2024-10-09,Customer_109,Chair,Furniture,5,3152,143.37,Haryana,Net Banking
+ff1100d9,2023-03-13,Customer_154,Smartphone,Electronics,4,20860,2052.24,Maharashtra,Net Banking
+a1eb3b67,2023-10-14,Customer_222,Shoes,Fashion,5,3067,2936.4,Madhya Pradesh,Debit Card
+bc7578dc,2024-10-12,Customer_134,Microwave,Home Appliances,3,11007,4373.81,Madhya Pradesh,Debit Card
+4d63fb56,2023-08-04,Customer_236,Chair,Furniture,3,2065,1132.47,Maharashtra,UPI
+25a35deb,2024-09-15,Customer_244,Laptop,Electronics,1,55755,1935.1,Haryana,Cash on Delivery
+33d5486d,2024-02-07,Customer_276,Smartphone,Electronics,1,20206,125.07,Punjab,UPI
+18072eb3,2023-12-28,Customer_193,Chair,Furniture,3,3584,381.02,Uttar Pradesh,UPI
+fe073292,2024-04-18,Customer_190,Shoes,Fashion,4,1038,183.95,Uttar Pradesh,Debit Card
+5a4016b5,2024-11-27,Customer_184,Shoes,Fashion,1,4343,532.84,Rajasthan,Credit Card
+3d23fa76,2023-08-28,Customer_253,Watch,Fashion,1,4149,408.96,West Bengal,Credit Card
+083f6345,2023-01-08,Customer_101,Refrigerator,Home Appliances,1,31563,1750.78,Haryana,Cash on Delivery
+34668e62,2023-06-24,Customer_283,Shoes,Fashion,5,3753,2560.99,West Bengal,Credit Card
+59b668db,2023-03-08,Customer_66,Smartphone,Electronics,2,19063,7118.61,Bihar,Net Banking
+53ef83f9,2023-10-08,Customer_99,Laptop,Electronics,5,55516,14041.17,Haryana,Cash on Delivery
+a67b3271,2023-01-03,Customer_219,Laptop,Electronics,3,54771,27747.26,Gujarat,Debit Card
+f0b56411,2023-05-05,Customer_266,Microwave,Home Appliances,4,11480,4750.49,Uttar Pradesh,Credit Card
+44fb3ee6,2023-02-18,Customer_143,Refrigerator,Home Appliances,5,29838,9436.03,Gujarat,Credit Card
+ac2c65ed,2023-12-09,Customer_42,Chair,Furniture,1,5020,226.53,Gujarat,UPI
+2d0f7c4b,2023-09-13,Customer_101,Headphones,Electronics,3,1273,48.0,Delhi,UPI
+74e94067,2024-05-06,Customer_222,Laptop,Electronics,5,56265,35238.61,Madhya Pradesh,Debit Card
+2853f88b,2023-09-11,Customer_56,Microwave,Home Appliances,2,13927,1898.54,Uttar Pradesh,Debit Card
+34262ca1,2024-06-16,Customer_122,Smartphone,Electronics,5,20537,9006.08,Delhi,Cash on Delivery
+ca4ba4e1,2024-08-15,Customer_64,Smartphone,Electronics,1,21754,145.07,Madhya Pradesh,UPI
+1b5512f3,2023-05-11,Customer_32,Microwave,Home Appliances,1,11234,1372.21,Gujarat,UPI
+e06c60a3,2023-04-15,Customer_29,Sofa,Furniture,1,24207,4114.85,Gujarat,UPI
+d0e75951,2024-09-24,Customer_211,Shoes,Fashion,5,4225,2787.33,Uttar Pradesh,Cash on Delivery
+b5b5b45e,2024-01-29,Customer_238,Refrigerator,Home Appliances,5,30536,3092.62,Uttar Pradesh,Cash on Delivery
+8526cef9,2024-06-13,Customer_169,Chair,Furniture,2,2442,100.31,West Bengal,UPI
+c4331af1,2024-08-30,Customer_100,Chair,Furniture,2,4610,938.41,Madhya Pradesh,Cash on Delivery
+ae672258,2024-05-07,Customer_228,Headphones,Electronics,2,563,179.49,Uttar Pradesh,Credit Card
+79a4144a,2023-11-16,Customer_300,Refrigerator,Home Appliances,5,31931,20809.59,Madhya Pradesh,Debit Card
+0cea03c5,2024-08-20,Customer_278,Headphones,Electronics,2,1923,237.43,Madhya Pradesh,Debit Card
+5eb13b60,2024-01-13,Customer_5,Sofa,Furniture,5,25693,17427.57,Uttar Pradesh,Credit Card
+ae5a13d7,2024-06-03,Customer_287,Laptop,Electronics,4,54408,8505.37,Bihar,Credit Card
+f5b93d31,2023-03-12,Customer_175,Shoes,Fashion,4,3845,2128.1,Punjab,Net Banking
+659d762d,2024-12-10,Customer_170,Chair,Furniture,5,5944,1995.17,Rajasthan,Cash on Delivery
+8c83562c,2023-12-03,Customer_84,Smartphone,Electronics,4,21588,13629.65,Uttar Pradesh,Cash on Delivery
+3d06c3d1,2023-08-13,Customer_2,Shoes,Fashion,2,2910,726.24,Bihar,Cash on Delivery
+92990a00,2023-12-06,Customer_193,Shoes,Fashion,4,1754,1159.16,Uttar Pradesh,Debit Card
+d8f91f4b,2023-01-11,Customer_38,Watch,Fashion,1,5272,121.46,Rajasthan,Cash on Delivery
+968cc2ac,2023-07-19,Customer_300,Watch,Fashion,1,6994,41.52,Bihar,Debit Card
+a2063f4d,2023-06-28,Customer_113,T-Shirt,Fashion,2,191,64.75,Bihar,Credit Card
+6a385a89,2023-07-20,Customer_12,Headphones,Electronics,3,3730,226.46,Maharashtra,Cash on Delivery
+2955c7ee,2024-11-01,Customer_57,Watch,Fashion,2,4249,775.36,Madhya Pradesh,Debit Card
+f759d2b8,2024-11-07,Customer_88,Sofa,Furniture,5,26611,11541.67,Delhi,UPI
+fb2c43d5,2023-05-28,Customer_67,Shoes,Fashion,2,3181,481.22,Madhya Pradesh,Debit Card
+aefe99e2,2024-09-05,Customer_220,Shoes,Fashion,1,4125,508.22,Bihar,Net Banking
+c5f9f7d1,2023-10-29,Customer_77,Watch,Fashion,2,3218,810.24,Rajasthan,Credit Card
+e41d373a,2024-06-04,Customer_300,Microwave,Home Appliances,2,12979,422.64,Punjab,Net Banking
+5f31f7d6,2023-03-08,Customer_86,Sofa,Furniture,4,26077,18408.74,Haryana,Debit Card
+1bb7deda,2024-05-25,Customer_266,Microwave,Home Appliances,2,11318,3225.57,Haryana,Cash on Delivery
+65c27965,2024-05-21,Customer_243,T-Shirt,Fashion,5,442,282.04,West Bengal,UPI
+4ec0b249,2023-08-01,Customer_113,Shoes,Fashion,4,4535,850.35,Bihar,Debit Card
+3ec2ac62,2024-03-11,Customer_194,Chair,Furniture,2,5831,1964.89,Rajasthan,Net Banking
+79626a94,2023-03-28,Customer_69,Smartphone,Electronics,3,19820,6169.82,Bihar,Net Banking
+9bc19398,2023-02-12,Customer_239,Sofa,Furniture,5,24377,10387.1,Punjab,Cash on Delivery
+fb6e1082,2024-02-23,Customer_189,Microwave,Home Appliances,3,11118,2550.72,Maharashtra,Cash on Delivery
+f93676d0,2023-08-28,Customer_136,Smartphone,Electronics,3,21692,1072.69,Haryana,Net Banking
+ad944384,2024-07-13,Customer_41,T-Shirt,Fashion,2,-797,-37.81,Madhya Pradesh,UPI
+7e463d01,2024-07-13,Customer_103,Watch,Fashion,2,5765,759.23,Rajasthan,Debit Card
+c97255a5,2023-07-15,Customer_71,Sofa,Furniture,3,23034,10642.76,Rajasthan,Debit Card
+6fe849b3,2024-02-18,Customer_208,Chair,Furniture,1,3933,514.51,Maharashtra,Cash on Delivery
+f19460cf,2023-08-22,Customer_117,Shoes,Fashion,4,1957,807.58,Haryana,Cash on Delivery
+c800ac65,2024-04-17,Customer_175,Smartphone,Electronics,3,21464,2419.16,Gujarat,Credit Card
+fa7e1ea4,2024-03-25,Customer_231,Sofa,Furniture,1,24534,681.8,Maharashtra,Debit Card
+d4ad8946,2023-01-10,Customer_256,Watch,Fashion,3,3923,986.59,Gujarat,Net Banking
+9832ae99,2023-11-03,Customer_167,Chair,Furniture,1,4324,679.18,Maharashtra,Credit Card
+5908752b,2023-12-05,Customer_291,Chair,Furniture,5,4350,3771.21,Gujarat,Credit Card
+03e2dbfd,2024-02-05,Customer_33,Sofa,Furniture,4,23771,9028.75,Madhya Pradesh,Net Banking
+e82c86af,2024-04-07,Customer_156,Smartphone,Electronics,2,18427,4974.45,Maharashtra,UPI
+26ddf5c9,2024-12-06,Customer_251,Laptop,Electronics,2,53815,1495.86,Gujarat,Debit Card
+b4339cf2,2023-07-30,Customer_120,T-Shirt,Fashion,5,-914,-415.56,Madhya Pradesh,Net Banking
+17ad7603,2023-01-12,Customer_88,Watch,Fashion,4,4601,578.02,Delhi,Credit Card
+2fe7a2cf,2024-07-03,Customer_215,Microwave,Home Appliances,1,11593,2214.49,Bihar,Credit Card
+9309e172,2023-07-30,Customer_159,Refrigerator,Home Appliances,4,28650,13837.02,Rajasthan,Net Banking
+cced6ff6,2023-07-27,Customer_258,Microwave,Home Appliances,3,10826,48.35,Maharashtra,Cash on Delivery
+dbe31afb,2023-03-07,Customer_205,Chair,Furniture,2,4153,546.35,West Bengal,Cash on Delivery
+91b91a3c,2024-04-16,Customer_237,Chair,Furniture,1,5019,91.45,Punjab,Debit Card
+21339ec2,2024-12-18,Customer_153,Refrigerator,Home Appliances,5,31372,25410.84,Maharashtra,Cash on Delivery
+88710bc1,2023-09-13,Customer_92,Chair,Furniture,4,3875,1192.46,Maharashtra,Net Banking
+639365f0,2023-04-08,Customer_202,Laptop,Electronics,2,56627,19718.42,Rajasthan,Net Banking
+dc2cca9b,2023-10-26,Customer_35,Shoes,Fashion,4,2684,2130.86,Haryana,UPI
+47975903,2024-01-13,Customer_40,Smartphone,Electronics,5,21139,16478.08,Gujarat,Cash on Delivery
+d0d926ab,2023-06-18,Customer_130,Shoes,Fashion,5,1182,546.28,Delhi,Cash on Delivery
+2a3b2c20,2024-01-26,Customer_176,Refrigerator,Home Appliances,2,29624,447.61,Rajasthan,UPI
+6e270cf9,2024-12-27,Customer_70,Watch,Fashion,4,4985,1839.89,Delhi,Net Banking
+255741a8,2024-11-03,Customer_125,Microwave,Home Appliances,2,11928,3914.42,Maharashtra,Credit Card
+10cc5114,2023-01-19,Customer_52,Headphones,Electronics,3,508,162.96,Gujarat,Credit Card
+e356df6a,2023-03-21,Customer_6,T-Shirt,Fashion,2,604,86.51,Bihar,UPI
+c0ed2b15,2024-11-22,Customer_273,Shoes,Fashion,4,3853,147.2,Haryana,UPI
+cd9b417b,2024-02-04,Customer_158,Microwave,Home Appliances,1,12450,11.62,Gujarat,Credit Card
+407ee43a,2023-09-13,Customer_192,Shoes,Fashion,2,1374,8.81,Uttar Pradesh,UPI
+ebfb3cb2,2023-12-12,Customer_99,Smartphone,Electronics,2,21927,7738.35,Maharashtra,Credit Card
+15448c9d,2023-02-15,Customer_213,Sofa,Furniture,1,26340,1723.38,Haryana,Credit Card
+d2339abb,2024-10-01,Customer_107,Sofa,Furniture,4,26845,9189.16,Bihar,Credit Card
+d3b2bb04,2023-04-19,Customer_183,Watch,Fashion,2,3061,492.38,Madhya Pradesh,UPI
+7a766f8f,2024-02-03,Customer_109,Microwave,Home Appliances,2,10270,2702.91,Rajasthan,Net Banking
+72fe7071,2024-01-13,Customer_23,Smartphone,Electronics,2,19683,2374.04,West Bengal,Cash on Delivery
+7b3069f4,2023-04-15,Customer_275,Chair,Furniture,2,3031,1162.73,West Bengal,Debit Card
+db3edd9f,2024-10-08,Customer_199,Headphones,Electronics,3,718,273.71,Madhya Pradesh,Cash on Delivery
+72c46dc1,2023-03-11,Customer_172,Laptop,Electronics,5,56735,33192.07,Gujarat,Net Banking
+1a5f341e,2024-10-17,Customer_120,Sofa,Furniture,5,25886,25585.23,Bihar,UPI
+66b1dc08,2024-09-23,Customer_64,T-Shirt,Fashion,2,1822,312.29,Bihar,Net Banking
+05314956,2023-03-23,Customer_31,Headphones,Electronics,3,2042,363.41,Maharashtra,Cash on Delivery
+cd86a154,2023-07-29,Customer_20,Shoes,Fashion,5,4874,2162.72,Madhya Pradesh,Credit Card
+6c75d66e,2023-10-12,Customer_163,Laptop,Electronics,5,56243,54981.33,Rajasthan,UPI
+e9561e24,2023-08-23,Customer_170,Watch,Fashion,2,3843,829.03,Bihar,Credit Card
+9d8b3d21,2024-09-14,Customer_196,Sofa,Furniture,3,23751,6303.91,Uttar Pradesh,UPI
+12c06522,2024-05-18,Customer_36,Shoes,Fashion,1,3598,713.85,Bihar,Credit Card
+312ca933,2023-04-04,Customer_89,Chair,Furniture,5,5404,4297.44,Bihar,Credit Card
+3d5913dc,2024-06-03,Customer_41,Refrigerator,Home Appliances,4,29275,3844.6,Bihar,Credit Card
+4c3e7571,2024-03-10,Customer_91,Chair,Furniture,2,3241,369.93,Punjab,Credit Card
+417be330,2023-10-06,Customer_247,Smartphone,Electronics,3,19631,4448.98,Punjab,Cash on Delivery
+5d54df3d,2024-03-08,Customer_259,Chair,Furniture,4,5114,637.73,Punjab,UPI
+8fb61eda,2024-01-26,Customer_219,Smartphone,Electronics,3,20437,6587.23,Haryana,Credit Card
+110f1a0b,2023-09-21,Customer_195,Microwave,Home Appliances,3,11857,2014.92,Haryana,Net Banking
+c76591eb,2024-05-07,Customer_37,Watch,Fashion,2,5928,1112.71,Maharashtra,Credit Card
+02bd0377,2023-01-05,Customer_7,Sofa,Furniture,3,25012,6071.24,Gujarat,Cash on Delivery
+5c57177a,2024-01-18,Customer_197,Microwave,Home Appliances,3,12625,7480.48,Delhi,Cash on Delivery
+56d76184,2023-02-09,Customer_64,Refrigerator,Home Appliances,5,28665,5567.55,Gujarat,Debit Card
+f4788ec4,2023-12-23,Customer_261,Microwave,Home Appliances,3,12852,444.97,Gujarat,Cash on Delivery
+19f16fd0,2023-09-10,Customer_125,Microwave,Home Appliances,1,13774,2240.0,Uttar Pradesh,Credit Card
+5ea3e686,2023-09-25,Customer_234,Headphones,Electronics,3,1013,365.99,Maharashtra,UPI
+03dd1ed7,2023-04-30,Customer_48,Refrigerator,Home Appliances,4,30892,14486.13,Delhi,Net Banking
+5c2ae6ae,2023-07-13,Customer_217,Headphones,Electronics,4,1035,572.84,Haryana,Net Banking
+918d87b5,2024-11-05,Customer_196,Chair,Furniture,3,5006,1236.31,Delhi,UPI
+f68b2f9d,2024-10-13,Customer_294,Watch,Fashion,2,4101,1228.22,Gujarat,Debit Card
+f9691bf6,2023-01-07,Customer_87,Microwave,Home Appliances,1,10396,145.21,Gujarat,Net Banking
+5d83a8b2,2024-03-02,Customer_148,Refrigerator,Home Appliances,2,28722,4304.29,Maharashtra,Credit Card
+be174a52,2024-05-13,Customer_94,Sofa,Furniture,1,24845,2817.88,Bihar,Credit Card
+1574d794,2023-07-25,Customer_31,Headphones,Electronics,2,1062,417.56,Gujarat,Cash on Delivery
+f1029bee,2024-10-03,Customer_56,Headphones,Electronics,1,1200,20.57,Delhi,Debit Card
+69a85937,2023-03-07,Customer_176,Laptop,Electronics,5,53961,25787.81,Delhi,UPI
+b2ecb860,2023-03-04,Customer_137,Laptop,Electronics,5,56232,55535.78,Delhi,Credit Card
+06166761,2024-06-18,Customer_4,Refrigerator,Home Appliances,5,30130,29735.2,Rajasthan,Cash on Delivery
+e8650934,2024-04-29,Customer_173,Chair,Furniture,4,3378,1002.01,Madhya Pradesh,Debit Card
+6b571b96,2023-09-03,Customer_185,Refrigerator,Home Appliances,4,30501,1396.74,Madhya Pradesh,Debit Card
+14886982,2023-04-13,Customer_2,Microwave,Home Appliances,4,12970,8668.33,Maharashtra,UPI
+fdf0286d,2024-09-08,Customer_63,Sofa,Furniture,3,26895,11284.03,Bihar,Debit Card
+82b539e6,2024-04-07,Customer_244,Sofa,Furniture,4,25704,3864.54,Madhya Pradesh,UPI
+69b0ee03,2024-10-10,Customer_185,Laptop,Electronics,3,55776,14868.97,West Bengal,Cash on Delivery
+9178256c,2024-02-14,Customer_42,Watch,Fashion,4,6846,5101.55,Punjab,UPI
+f0c9a473,2024-01-30,Customer_151,Chair,Furniture,2,4916,281.51,Haryana,Net Banking
+40e6f3ac,2024-05-31,Customer_17,Headphones,Electronics,4,3263,227.34,Haryana,Cash on Delivery
+2b858b77,2023-06-22,Customer_229,Smartphone,Electronics,4,20714,8959.52,Bihar,Credit Card
+8b35c88a,2023-06-24,Customer_46,Smartphone,Electronics,4,20931,489.31,Madhya Pradesh,Cash on Delivery
+ac2349ed,2023-10-15,Customer_113,T-Shirt,Fashion,4,2697,1936.47,Delhi,Credit Card
+88547bd8,2024-07-01,Customer_252,Smartphone,Electronics,3,21571,2896.63,West Bengal,Net Banking
+e465333a,2023-03-08,Customer_176,Refrigerator,Home Appliances,4,30678,15758.73,Haryana,Cash on Delivery
+b62f105e,2023-08-27,Customer_115,T-Shirt,Fashion,1,-9,-0.16,Delhi,Debit Card
+b40cec80,2024-08-29,Customer_97,Smartphone,Electronics,5,19506,2485.41,Madhya Pradesh,Cash on Delivery
+c659108a,2024-08-13,Customer_1,T-Shirt,Fashion,1,1216,130.26,Gujarat,Cash on Delivery
+19f1cb67,2023-11-24,Customer_187,Headphones,Electronics,5,2718,1635.2,Bihar,UPI
+b3f156c1,2024-02-09,Customer_5,Sofa,Furniture,4,24294,2812.29,Rajasthan,Credit Card
+90d75593,2024-05-26,Customer_234,Headphones,Electronics,5,1160,169.21,Uttar Pradesh,Net Banking
+80ad22f2,2023-11-24,Customer_159,Sofa,Furniture,1,24120,4808.8,West Bengal,Cash on Delivery
+5f462145,2024-10-08,Customer_111,Microwave,Home Appliances,3,12884,7471.4,Uttar Pradesh,Debit Card
+7da6e3f5,2023-06-06,Customer_108,Shoes,Fashion,1,4781,827.53,Maharashtra,Cash on Delivery
+67ed8b0f,2024-02-06,Customer_154,Headphones,Electronics,1,2244,176.06,Gujarat,Cash on Delivery
+7445811d,2023-12-23,Customer_201,Refrigerator,Home Appliances,1,30162,4384.07,Rajasthan,Credit Card
+d1a5c3e7,2024-12-18,Customer_281,Refrigerator,Home Appliances,1,28536,1845.81,West Bengal,UPI
+d824dc98,2024-12-27,Customer_156,Microwave,Home Appliances,2,12364,680.32,Punjab,Debit Card
+09a20b14,2023-05-29,Customer_108,Shoes,Fashion,2,4011,1044.85,Madhya Pradesh,Net Banking
+831aeabc,2023-04-15,Customer_76,Refrigerator,Home Appliances,4,30783,20727.06,Uttar Pradesh,UPI
+365ae463,2023-12-31,Customer_243,Headphones,Electronics,1,480,94.11,Madhya Pradesh,Net Banking
+33a96271,2024-03-20,Customer_77,Refrigerator,Home Appliances,2,28139,1337.19,Gujarat,Cash on Delivery
+41ea84b8,2023-11-06,Customer_89,Refrigerator,Home Appliances,1,31185,2891.93,Gujarat,Debit Card
+ad306267,2024-10-09,Customer_228,Watch,Fashion,1,3491,81.43,Delhi,Cash on Delivery
+5e5d54bd,2024-10-18,Customer_261,Shoes,Fashion,1,3403,389.97,West Bengal,Cash on Delivery
+21262c57,2023-10-08,Customer_49,Chair,Furniture,2,3572,691.81,Gujarat,Debit Card
+0d61d3fc,2024-08-08,Customer_65,Smartphone,Electronics,3,18260,7820.04,Haryana,Credit Card
+676e8431,2024-02-20,Customer_11,Refrigerator,Home Appliances,5,31348,16815.59,Haryana,Cash on Delivery
+7a8ebf4e,2023-03-07,Customer_266,Chair,Furniture,5,4923,4031.09,Delhi,Credit Card
+d10e9cbf,2024-11-05,Customer_61,Headphones,Electronics,5,2847,512.28,Haryana,Cash on Delivery
+8eae66fb,2023-11-18,Customer_63,Laptop,Electronics,2,55355,4566.34,Maharashtra,UPI
+87893127,2024-07-29,Customer_132,Laptop,Electronics,1,53510,5416.8,Madhya Pradesh,Net Banking
+4c7f8eae,2023-06-25,Customer_217,Laptop,Electronics,2,54231,1001.46,Haryana,Debit Card
+333b14d0,2024-11-05,Customer_274,Microwave,Home Appliances,2,12363,2425.34,Madhya Pradesh,Net Banking
+17cb128e,2023-12-27,Customer_276,Sofa,Furniture,2,25817,1022.45,Uttar Pradesh,Credit Card
+80605afa,2023-02-07,Customer_97,Headphones,Electronics,3,3506,1751.52,Maharashtra,Net Banking
+3bd2aa2a,2024-07-19,Customer_111,Chair,Furniture,3,3136,241.77,West Bengal,Cash on Delivery
+cc3c5f1b,2023-03-18,Customer_282,T-Shirt,Fashion,3,363,141.52,Maharashtra,Cash on Delivery
+bb0e1251,2024-04-12,Customer_43,T-Shirt,Fashion,4,2651,1472.93,Haryana,Credit Card
+6f1efc97,2023-03-14,Customer_138,Shoes,Fashion,3,3308,1304.64,Haryana,Net Banking
+cb3fade0,2023-06-17,Customer_215,Headphones,Electronics,3,3226,839.33,Uttar Pradesh,Net Banking
+23103efb,2023-09-11,Customer_40,T-Shirt,Fashion,1,976,21.47,Haryana,Cash on Delivery
+121c30c2,2023-03-09,Customer_169,Smartphone,Electronics,3,21724,4347.2,Rajasthan,Credit Card
+28068539,2023-08-20,Customer_141,Laptop,Electronics,1,54544,10685.01,Bihar,Cash on Delivery
+09618199,2023-04-18,Customer_64,Headphones,Electronics,5,2983,2611.65,West Bengal,Cash on Delivery
+c9dcc7b0,2023-04-08,Customer_271,Watch,Fashion,5,6544,1845.39,Rajasthan,Net Banking
+723ab6c2,2023-04-12,Customer_25,Headphones,Electronics,3,3876,1748.56,Maharashtra,Debit Card
+57192fc8,2024-11-25,Customer_273,Sofa,Furniture,5,26612,22610.35,Punjab,Net Banking
+752b2360,2023-05-11,Customer_133,Laptop,Electronics,5,55921,8695.23,Maharashtra,Credit Card
+5575ae6f,2024-01-23,Customer_291,T-Shirt,Fashion,1,2561,371.56,Madhya Pradesh,Credit Card
+b6ce673e,2024-11-25,Customer_215,Microwave,Home Appliances,2,11797,4653.9,Punjab,Net Banking
+fa3e6609,2023-10-21,Customer_142,Refrigerator,Home Appliances,5,31857,22888.2,Bihar,Debit Card
+50e75b3e,2024-10-12,Customer_45,T-Shirt,Fashion,4,1956,489.37,Delhi,UPI
+0b3571bd,2023-03-20,Customer_123,Smartphone,Electronics,2,20356,467.47,Rajasthan,Net Banking
+eb032d0b,2024-05-19,Customer_6,Refrigerator,Home Appliances,5,31819,23253.24,Punjab,Cash on Delivery
+3e97c257,2024-06-11,Customer_273,Smartphone,Electronics,4,18056,8902.14,Uttar Pradesh,Cash on Delivery
+6d804593,2024-12-20,Customer_274,Watch,Fashion,2,6026,1593.69,Haryana,Net Banking
+25f51bed,2023-02-13,Customer_230,Headphones,Electronics,5,3701,832.98,Delhi,Debit Card
+2da9b65f,2023-05-17,Customer_264,Watch,Fashion,1,4731,468.85,Maharashtra,Debit Card
+73a66d8d,2023-04-26,Customer_174,Shoes,Fashion,5,4484,3436.6,Delhi,Debit Card
+19d81b4f,2023-11-03,Customer_248,T-Shirt,Fashion,3,-328,-0.44,West Bengal,Cash on Delivery
+6114c285,2023-08-11,Customer_157,Sofa,Furniture,1,26831,2484.86,West Bengal,Cash on Delivery
+0db1c02a,2023-02-28,Customer_183,Laptop,Electronics,5,54885,18032.57,Madhya Pradesh,UPI
+f3fc2bbe,2023-01-06,Customer_180,Headphones,Electronics,4,1452,10.3,Gujarat,Cash on Delivery
+d497bfe6,2023-07-22,Customer_44,Sofa,Furniture,5,26680,4101.0,Delhi,Cash on Delivery
+c916100d,2023-01-08,Customer_80,T-Shirt,Fashion,2,727,114.97,Rajasthan,Debit Card
+b015e285,2024-03-14,Customer_94,Sofa,Furniture,3,23445,13917.46,Punjab,Credit Card
+79ecc660,2023-05-24,Customer_182,Refrigerator,Home Appliances,1,29471,5207.98,Bihar,UPI
+6b4ba49a,2023-07-14,Customer_146,Laptop,Electronics,2,54616,9198.55,Madhya Pradesh,UPI
+aca276a6,2023-06-14,Customer_102,Microwave,Home Appliances,3,10486,2649.36,Haryana,Cash on Delivery
+e60206cb,2024-11-29,Customer_66,Watch,Fashion,4,5055,2935.92,Gujarat,Credit Card
+14a4335e,2023-04-23,Customer_56,Laptop,Electronics,2,53637,7383.04,Uttar Pradesh,Credit Card
+0a600355,2023-02-23,Customer_176,Refrigerator,Home Appliances,5,31020,249.06,Punjab,Debit Card
+63e7960b,2023-10-16,Customer_249,Smartphone,Electronics,4,19014,9394.64,Haryana,Credit Card
+40723044,2023-09-13,Customer_144,Smartphone,Electronics,3,20871,3097.52,Gujarat,Credit Card
+287fdc06,2024-04-30,Customer_53,Sofa,Furniture,5,23742,4479.38,West Bengal,Credit Card
+83da9f7f,2023-08-23,Customer_62,Headphones,Electronics,4,157,34.4,Bihar,Credit Card
+82f54966,2024-03-12,Customer_10,Chair,Furniture,2,2372,820.1,Gujarat,Cash on Delivery
+8c3d2bd4,2024-06-21,Customer_157,Shoes,Fashion,2,2376,404.94,Uttar Pradesh,Net Banking
+f4adee80,2024-03-13,Customer_27,T-Shirt,Fashion,1,-98,-7.13,Madhya Pradesh,Cash on Delivery
+00453fb0,2023-09-10,Customer_164,Laptop,Electronics,2,53167,11.4,Madhya Pradesh,Credit Card
+345354c6,2023-10-20,Customer_242,T-Shirt,Fashion,5,-788,-339.56,Rajasthan,Cash on Delivery
+f26318dc,2024-01-08,Customer_172,T-Shirt,Fashion,1,-804,-107.57,Haryana,Credit Card
+47fabe01,2023-12-06,Customer_185,Watch,Fashion,5,5166,3123.95,Bihar,Debit Card
+63886aba,2023-08-04,Customer_300,Refrigerator,Home Appliances,1,31633,672.93,West Bengal,UPI
+353da7fe,2023-02-12,Customer_98,Shoes,Fashion,4,4790,377.98,Haryana,Net Banking
+dc80ee65,2023-12-18,Customer_155,Microwave,Home Appliances,2,12185,3513.03,Uttar Pradesh,Credit Card
+f4b86c0d,2023-07-16,Customer_215,Sofa,Furniture,3,26651,14024.96,Haryana,Debit Card
+f986e793,2024-01-10,Customer_230,Smartphone,Electronics,4,18277,7059.61,Haryana,Net Banking
+195729bb,2023-01-23,Customer_86,Chair,Furniture,3,4853,2817.13,Rajasthan,UPI
+e89af031,2024-08-02,Customer_32,Shoes,Fashion,4,3027,1658.06,Haryana,UPI
+1fdeb496,2023-06-19,Customer_225,Sofa,Furniture,4,25303,15776.36,Gujarat,Net Banking
+d5cb6ee3,2023-10-06,Customer_106,Headphones,Electronics,1,655,74.92,West Bengal,UPI
+84f99937,2024-06-09,Customer_234,Sofa,Furniture,5,24060,7300.05,Bihar,Debit Card
+034fcaf5,2024-12-26,Customer_138,Sofa,Furniture,1,23700,1061.43,Haryana,Credit Card
+e3a33bee,2023-10-26,Customer_21,Headphones,Electronics,3,3798,303.02,Uttar Pradesh,Credit Card
+5bb5ba49,2023-08-04,Customer_274,Smartphone,Electronics,1,20656,1435.43,West Bengal,Debit Card
+acb379f8,2023-11-29,Customer_43,Sofa,Furniture,3,25957,2080.89,West Bengal,Debit Card
+882e2ee5,2023-11-29,Customer_30,Laptop,Electronics,3,53898,23622.74,Rajasthan,Credit Card
+d4b374f6,2023-09-20,Customer_9,Sofa,Furniture,5,23435,16934.18,Gujarat,Debit Card
+41da7241,2024-10-03,Customer_283,Shoes,Fashion,4,1903,493.66,Bihar,Net Banking
+099ccc3b,2024-10-06,Customer_203,Headphones,Electronics,4,949,554.07,Gujarat,Debit Card
+e988cdf2,2023-06-01,Customer_246,Smartphone,Electronics,4,18743,6888.28,Maharashtra,Credit Card
+a4a00538,2024-08-06,Customer_252,Headphones,Electronics,3,86,16.0,Maharashtra,Cash on Delivery
+f060c70c,2024-12-04,Customer_97,Smartphone,Electronics,2,18295,3120.36,Punjab,Cash on Delivery
+f81e28bc,2023-04-13,Customer_270,Headphones,Electronics,1,2471,49.29,Gujarat,UPI
+5c39b3df,2023-04-23,Customer_7,Laptop,Electronics,2,54017,16639.78,Rajasthan,Credit Card
+7901a49c,2024-10-04,Customer_7,Laptop,Electronics,1,55221,8129.98,Madhya Pradesh,UPI
+18bf6ef3,2023-07-27,Customer_72,Microwave,Home Appliances,5,13655,6067.27,Maharashtra,Debit Card
+914fe7af,2023-12-06,Customer_246,Headphones,Electronics,2,228,49.57,Rajasthan,Net Banking
+3345d4eb,2023-05-07,Customer_11,Laptop,Electronics,1,55230,3277.77,Haryana,Cash on Delivery
+d8b59324,2023-05-26,Customer_1,Shoes,Fashion,1,1928,164.7,Maharashtra,Debit Card
+6a5d9601,2024-11-02,Customer_147,Shoes,Fashion,4,3812,2696.53,Delhi,Cash on Delivery
+2fe2e083,2023-06-23,Customer_57,Shoes,Fashion,1,4917,939.98,Madhya Pradesh,UPI
+55a3177d,2024-09-22,Customer_171,Smartphone,Electronics,3,21781,12084.56,Delhi,UPI
+6cae9d88,2024-09-11,Customer_78,Headphones,Electronics,4,2172,581.83,Maharashtra,Cash on Delivery
+70f76b22,2023-06-03,Customer_155,Chair,Furniture,3,3426,1799.48,Rajasthan,Cash on Delivery
+30979b1c,2024-11-08,Customer_189,T-Shirt,Fashion,1,2031,0.89,Maharashtra,Credit Card
+7f698640,2023-11-24,Customer_76,Refrigerator,Home Appliances,4,30954,19732.57,Punjab,UPI
+3ac4bf96,2023-04-26,Customer_296,Refrigerator,Home Appliances,3,28592,1551.64,Maharashtra,Credit Card
+bc47a628,2024-01-30,Customer_181,Watch,Fashion,4,4736,1823.51,Gujarat,Net Banking
+fc8067ea,2024-10-13,Customer_171,Headphones,Electronics,2,1569,262.75,Punjab,Net Banking
+aba769c6,2024-06-30,Customer_253,Sofa,Furniture,5,26364,6066.74,Delhi,Net Banking
+074cd804,2024-03-07,Customer_270,Chair,Furniture,2,4879,170.28,Madhya Pradesh,UPI
+0bde5e71,2023-07-28,Customer_9,Watch,Fashion,5,4941,4731.58,Delhi,UPI
+8a91a854,2023-12-24,Customer_185,Headphones,Electronics,3,1885,163.02,Haryana,Cash on Delivery
+d51a195b,2023-09-06,Customer_108,Shoes,Fashion,1,4059,111.87,Maharashtra,Cash on Delivery
+05194296,2023-01-27,Customer_218,Watch,Fashion,1,5872,124.5,West Bengal,UPI
+e662c665,2024-05-03,Customer_81,Laptop,Electronics,2,54496,3079.62,Bihar,UPI
+63e7889f,2023-01-13,Customer_292,Refrigerator,Home Appliances,2,31135,2271.91,Maharashtra,Net Banking
+0c509b7b,2024-12-16,Customer_154,Microwave,Home Appliances,4,12959,3497.24,Uttar Pradesh,Debit Card
+46314999,2023-04-24,Customer_80,Laptop,Electronics,1,55474,8333.67,Haryana,Credit Card
+ff6bf2dd,2023-01-12,Customer_203,Refrigerator,Home Appliances,4,30269,17226.86,Rajasthan,Net Banking
+de8b79a3,2024-05-28,Customer_157,Shoes,Fashion,4,4815,604.0,Delhi,Net Banking
+67ac4b86,2024-01-22,Customer_65,Shoes,Fashion,4,3535,158.36,Gujarat,Credit Card
+1d6711c3,2024-07-26,Customer_40,Microwave,Home Appliances,4,11282,5891.01,Gujarat,Cash on Delivery
+49d5c3c4,2023-06-18,Customer_28,Watch,Fashion,4,3797,819.91,Delhi,UPI
+0b3bb747,2024-01-07,Customer_172,Laptop,Electronics,2,54155,3525.72,Delhi,UPI
+bfbc18ae,2023-08-05,Customer_6,T-Shirt,Fashion,2,1059,85.45,Uttar Pradesh,Credit Card
+a97280b3,2023-10-03,Customer_44,Chair,Furniture,5,2183,1230.64,Punjab,UPI
+1e57c906,2023-02-19,Customer_162,Smartphone,Electronics,3,18034,10609.85,Rajasthan,Cash on Delivery
+52f447b3,2024-05-27,Customer_100,Watch,Fashion,4,5972,1700.05,Maharashtra,UPI
+4a7a29e3,2023-12-06,Customer_209,Sofa,Furniture,1,25056,4046.52,Maharashtra,UPI
+b7e77a48,2024-08-24,Customer_196,Microwave,Home Appliances,5,13558,11551.78,Rajasthan,Credit Card
+0217946c,2023-06-05,Customer_238,Smartphone,Electronics,1,21902,3147.15,Bihar,Credit Card
+ee0008d1,2023-06-14,Customer_257,Sofa,Furniture,5,25668,13431.73,Madhya Pradesh,Cash on Delivery
+57aa83b6,2023-05-15,Customer_174,T-Shirt,Fashion,3,1353,694.86,Gujarat,UPI
+4a7dc89c,2024-12-30,Customer_199,Shoes,Fashion,2,3500,849.63,Maharashtra,Net Banking
+5fdc98a5,2024-10-04,Customer_255,Smartphone,Electronics,1,18584,2848.25,Rajasthan,Net Banking
+9f79ab41,2023-03-31,Customer_256,Smartphone,Electronics,4,19284,2618.27,Rajasthan,Credit Card
+536d1047,2023-03-11,Customer_144,Chair,Furniture,3,3447,184.54,Maharashtra,Cash on Delivery
+1341273c,2023-09-22,Customer_243,T-Shirt,Fashion,4,1463,1081.64,Delhi,Net Banking
+dffc91ee,2024-05-14,Customer_21,Watch,Fashion,3,4642,1139.24,West Bengal,Credit Card
+d78b62de,2024-03-27,Customer_188,Sofa,Furniture,5,26899,8436.75,Delhi,Cash on Delivery
+e205969e,2024-06-02,Customer_231,T-Shirt,Fashion,1,1342,262.34,Uttar Pradesh,Credit Card
+0521b009,2024-12-17,Customer_288,Laptop,Electronics,2,56494,2379.48,Gujarat,Credit Card
+340fb273,2024-08-06,Customer_205,Smartphone,Electronics,2,19590,6849.91,Delhi,Debit Card
+c3e5fe83,2024-04-22,Customer_240,Sofa,Furniture,4,23446,1609.76,Delhi,Cash on Delivery
+db108147,2024-03-19,Customer_103,Refrigerator,Home Appliances,3,28264,5380.64,West Bengal,Cash on Delivery
+0c529c70,2023-08-06,Customer_244,Smartphone,Electronics,3,19861,456.2,Maharashtra,Cash on Delivery
+cfe4f4ce,2023-05-30,Customer_110,Watch,Fashion,5,3128,3089.87,Gujarat,UPI
+ebf86965,2024-01-06,Customer_221,Microwave,Home Appliances,2,10221,864.67,Uttar Pradesh,Cash on Delivery
+6737be73,2023-10-04,Customer_130,Headphones,Electronics,1,580,8.03,Gujarat,UPI
+3eed1f91,2023-11-02,Customer_232,Refrigerator,Home Appliances,5,28876,19336.65,Rajasthan,Credit Card
+03936ca7,2023-02-25,Customer_48,Refrigerator,Home Appliances,3,31945,14436.13,Maharashtra,Credit Card
+d7a8b9eb,2023-12-24,Customer_215,Microwave,Home Appliances,4,12193,6719.13,Maharashtra,Cash on Delivery
+650f3bb1,2023-12-30,Customer_293,Refrigerator,Home Appliances,1,30297,4744.95,West Bengal,Credit Card
+4f11196e,2023-03-21,Customer_297,Chair,Furniture,2,3326,883.47,Madhya Pradesh,UPI
+9d63ac41,2023-06-04,Customer_235,Headphones,Electronics,4,3540,896.07,Gujarat,Debit Card
+4b861d43,2024-06-17,Customer_2,Microwave,Home Appliances,2,12598,2264.26,West Bengal,UPI
+1e10187d,2023-02-07,Customer_112,Shoes,Fashion,4,3852,1682.82,Maharashtra,Net Banking
+75ba5446,2024-01-22,Customer_111,Watch,Fashion,2,6900,527.6,West Bengal,UPI
+32e69840,2024-01-15,Customer_187,Laptop,Electronics,3,56672,10437.81,Delhi,Cash on Delivery
+6c5ed8bf,2024-10-26,Customer_234,Refrigerator,Home Appliances,4,29440,8295.28,Haryana,Cash on Delivery
+eb6327f9,2024-06-19,Customer_172,Smartphone,Electronics,2,19879,3406.34,Maharashtra,Net Banking
+33ff619c,2024-09-01,Customer_84,Sofa,Furniture,4,24562,5600.68,Gujarat,Debit Card
+6b5c36e6,2024-12-19,Customer_51,Smartphone,Electronics,1,18367,2386.33,West Bengal,Cash on Delivery
+8ed4ccbf,2023-04-17,Customer_255,Chair,Furniture,5,2408,1525.53,Haryana,Net Banking
+8eca3a24,2023-02-03,Customer_149,Refrigerator,Home Appliances,2,28912,8984.46,Haryana,Cash on Delivery
+b089b236,2023-04-28,Customer_101,Microwave,Home Appliances,1,11436,2213.13,Punjab,Cash on Delivery
+586643c5,2024-10-22,Customer_203,Laptop,Electronics,3,56203,7551.55,Rajasthan,Debit Card
+712edbc8,2024-11-05,Customer_136,T-Shirt,Fashion,4,1557,300.88,Gujarat,UPI
+1ae363f6,2023-01-16,Customer_14,Headphones,Electronics,3,3443,1687.15,West Bengal,Debit Card
+b46d3e3a,2023-12-10,Customer_88,Chair,Furniture,4,2990,1329.33,Gujarat,Credit Card
+74486b12,2024-09-23,Customer_202,Laptop,Electronics,5,54757,7056.56,Gujarat,Credit Card
+9783fcef,2024-02-17,Customer_163,Sofa,Furniture,2,24791,2290.39,Maharashtra,Net Banking
+50582c2e,2023-05-02,Customer_296,Refrigerator,Home Appliances,3,31429,10426.36,Madhya Pradesh,Credit Card
+d4b5699c,2023-04-06,Customer_48,Laptop,Electronics,4,53047,26688.76,West Bengal,Credit Card
+4c4e8c31,2023-01-29,Customer_279,Smartphone,Electronics,5,19566,494.82,Maharashtra,Cash on Delivery
+96179553,2024-10-11,Customer_184,Headphones,Electronics,2,2672,959.69,Rajasthan,Credit Card
+a1810ee8,2024-07-02,Customer_126,Refrigerator,Home Appliances,3,30700,953.21,Delhi,Credit Card
+7fcb262b,2024-10-04,Customer_12,Chair,Furniture,1,2454,225.34,West Bengal,UPI
+d651a383,2023-04-20,Customer_73,T-Shirt,Fashion,3,2464,267.04,Delhi,Cash on Delivery
+11c3d0db,2024-01-06,Customer_107,Refrigerator,Home Appliances,1,30011,4774.4,Gujarat,UPI
+c4960068,2024-05-13,Customer_40,Shoes,Fashion,4,2537,1805.76,Punjab,Credit Card
+263081cd,2023-07-04,Customer_153,Laptop,Electronics,2,55701,12639.53,West Bengal,UPI
+54920a6f,2023-05-01,Customer_176,Watch,Fashion,4,5514,2646.69,Uttar Pradesh,Credit Card
+240c9436,2024-06-18,Customer_131,Smartphone,Electronics,2,20482,242.14,Uttar Pradesh,Net Banking
+8bc8b37b,2024-06-08,Customer_79,Shoes,Fashion,3,1470,792.54,Uttar Pradesh,Debit Card
+1ff17d53,2023-05-22,Customer_113,Smartphone,Electronics,2,19096,2090.37,Bihar,UPI
+4026fcb2,2023-12-23,Customer_283,T-Shirt,Fashion,4,1852,1198.63,Gujarat,Net Banking
+e45bc9eb,2024-02-14,Customer_99,T-Shirt,Fashion,2,-390,-107.18,Rajasthan,Cash on Delivery
+6edd542b,2023-04-16,Customer_299,Chair,Furniture,3,2678,1275.96,Punjab,Cash on Delivery
+cbd13f50,2024-04-01,Customer_217,Chair,Furniture,3,5341,1021.46,Delhi,Net Banking
+36a48ef8,2024-01-28,Customer_220,Shoes,Fashion,5,2445,914.33,Delhi,Cash on Delivery
