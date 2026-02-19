@@ -17,7 +17,7 @@ This project analyzes e-commerce sales data using Power BI.
 - Excel / CSV Dataset
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots\Screenshot 2.png)
+![Dashboard](Ecommerce_sales_powerBI\screenshots\Screenshot 2.png)
 
 ## 📁 Dataset
 The dataset contains 1000+ rows of simulated e-commerce sales data including:
@@ -38,3 +38,4 @@ The dataset contains 1000+ rows of simulated e-commerce sales data including:
 ---
 
 👨‍💻 Created by Ankit Kushwaha
+
