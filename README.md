@@ -1,1 +1,40 @@
-# Ecommerce-Sales-PowerBI-Dashboard
+# 🛒 E-Commerce Sales Dashboard (Power BI)
+
+## 📌 Project Overview
+This project analyzes e-commerce sales data using Power BI.
+
+## 📊 Key Insights
+- Monthly Sales Trend
+- Top Selling Products
+- Category-wise Revenue
+- Region-wise Performance
+- Profit Analysis
+
+## 🛠 Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Excel / CSV Dataset
+
+## 📷 Dashboard Preview
+![Dashboard](screenshots/dashboard_overview.png)
+
+## 📁 Dataset
+The dataset contains 1000+ rows of simulated e-commerce sales data including:
+- Order Date
+- Product
+- Category
+- Sales
+- Profit
+- Region
+- Customer Segment
+
+## 🔎 Features
+- Interactive filters
+- Cross-filtering visuals
+- Date table using DAX
+- Relationship modeling
+
+---
+
+👨‍💻 Created by Ankit Kushwaha
